@@ -3,11 +3,23 @@
 % 2 June 2020
 
 # Courses I've Taken at UT Austin
-## Freshman Fall
-* Data Structures
-* Discrete Math
-* Calculus II 
-* History of Religions in Asia
+
+## Junior Fall
+* Quantum Information Theory 
+* Formal Methods and AI 
+* Abstract Algebra 
+* Philosophy of the Arts 
+
+## Sophomore Spring
+* Algorithms 
+* Computer Graphics 
+* Linear Algebra 
+
+## Sophomore Fall
+* Operating Systems 
+* Differential Equations
+* Decoding Classical Chinese Poetry 
+* Aesthetics: Theory and Practice 
 
 ## Freshman Spring
 * Computer Architecture
@@ -16,22 +28,11 @@
 * Probability
 * Longhorn Pep Band
 
-## Sophomore Fall
-* Operating Systems 
-* Differential Equations
-* Decoding Classical Chinese Poetry 
-* Aesthetics: Theory and Practice 
-
-## Sophomore Spring
-* Algorithms 
-* Computer Graphics 
-* Linear Algebra 
-
-## Junior Fall
-* Quantum Information Theory 
-* Formal Methods and AI 
-* Abstract Algebra 
-* Philosophy of the Arts 
+## Freshman Fall
+* Data Structures
+* Discrete Math
+* Calculus II 
+* History of Religions in Asia
 
 ## Honors Coursework
 
