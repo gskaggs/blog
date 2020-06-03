@@ -6,7 +6,7 @@
 
 ## Junior Fall
 * Quantum Information Theory 
-* Formal Methods and AI 
+* Logic in Computer Science and AI 
 * Abstract Algebra 
 * Philosophy of the Arts 
 
