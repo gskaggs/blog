@@ -36,6 +36,6 @@
 
 ## Honors Coursework
 
-Of the classes listed above, I took the honors versions of the following: Quantum Information Theory, Computer Graphics, Linear Algebra, Operating Systems, Computer Architecture, Data Structures, Discrete Math.
+Of the classes listed above, I took the honors versions of the following: Quantum Information Science, Computer Graphics, Linear Algebra, Operating Systems, Computer Architecture, Data Structures, Discrete Math.
 
 
