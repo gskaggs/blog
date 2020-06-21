@@ -4,7 +4,7 @@
 
 # Courses I've Taken at UT Austin
 
-## Junior Fall
+## Junior Fall (Anticipated)
 * Quantum Information Science 
 * Logic in Computer Science and AI 
 * Abstract Algebra 
