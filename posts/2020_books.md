@@ -11,7 +11,7 @@
 * **Zen and the Art of Motercycle Maintenance,** Robert M. Pirsig
 * **Dune,** Frank Herbert
 * **Neverwhere,** Neil Gaiman
-* **Travel's with Charlie in Search of America,** John Steinbeck
+* **Travels with Charlie in Search of America,** John Steinbeck
 
 ### Reading Now
 * **A Room with a View,** E. M. Forster
