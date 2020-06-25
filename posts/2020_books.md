@@ -12,10 +12,11 @@
 * **Dune,** Frank Herbert
 * **Neverwhere,** Neil Gaiman
 * **Travels with Charlie in Search of America,** John Steinbeck
+* **A Room with a View,** E. M. Forster
 
 ### Reading Now
-* **A Room with a View,** E. M. Forster
 * **American Gods,** Neil Gaiman
+* **The Selfish Gene,** Richard Dawkins 
 
 ### Bonus: Spanish Titles
 * **Harry Potter y la Piedra Filosofal,** J. K. Rowling
