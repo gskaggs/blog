@@ -4,6 +4,11 @@
 
 # 2020 Reading List
 
+### Reading Now
+* **American Gods,** Neil Gaiman
+* **The Selfish Gene,** Richard Dawkins 
+
+### Read So Far
 
 * [The Art of Learning](#the-art-of-learning)
 * [Can't Hurt Me](#cant-hurt-me)
@@ -12,11 +17,6 @@
 * [Neverwhere](#neverwhere)
 * [Travels with Charlie in Search of America](#travels-with-charlie-in-search-of-america)
 * [A Room with a View](#a-room-with-a-view)
-
-
-### Reading Now
-* **American Gods,** Neil Gaiman
-* **The Selfish Gene,** Richard Dawkins 
 
 ### The Art of Learning
 *Joshua Waitzkin*
