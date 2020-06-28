@@ -21,7 +21,8 @@
 ### The Art of Learning
 *Joshua Waitzkin*
 
-<img src="../resources/2020_books/taol.jpg" alt="The Art of Learning" style="width:20%;">  
+<img src="../resources/2020_books/taol.jpg" alt="The Art of Learning" style="float: left; width: 20%; margin-right: 12px; "> hello 
+<p style="clear: both;"></p>
 
 ### Can't Hurt Me
 *David Goggins*
