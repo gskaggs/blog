@@ -19,7 +19,7 @@
 * [A Room with a View](#a-room-with-a-view)
 
 ### The Art of Learning
-*Joshua Waitzkin*
+*Josh Waitzkin*
 
 <img src="../resources/2020_books/taol.jpg" alt="The Art of Learning Book Cover" style="float: left; width: 20%; margin-right: 12px; "> hello 
 <p style="clear: both;"></p>
