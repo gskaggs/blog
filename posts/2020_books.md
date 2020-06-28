@@ -15,7 +15,7 @@
 * [Zen and the Art of Motercycle Maintenance](#zen-and-the-art-of-motercycle-maintenance)
 * [Dune](#dune)
 * [Neverwhere](#neverwhere)
-* [Travels with Charlie in Search of America](#travels-with-charlie-in-search-of-america)
+* [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
 * [A Room with a View](#a-room-with-a-view)
 
 ### The Art of Learning
@@ -33,7 +33,7 @@
 ### Neverwhere
 *Neil Gaiman*
 
-### Travels with Charlie in Search of America
+### Travels with Charley in Search of America
 *John Steinbeck*
 
 ### A Room with a View
