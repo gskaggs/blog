@@ -56,7 +56,17 @@
 *John Steinbeck*
 
 <img src="../resources/2020_books/travels-with-charley.jpg" alt="Travels with Charley Book Cover" class="book-cover">
+
+<br>
+
+Steinbeck's road trip across America with his French poodle Charley makes for a charming and enjoyable read.
+
 <p style="clear: both;"></p>
+
+<!--
+> He put my sins in a new perspective. Whereas they had been small and mean and nasty and best forgotten, this minister gave them some size and bloom and dignity... I wasn't a naughty child but a first rate sinner." -->
+
+> All across the country I went to church on Sundays, a different denomination every week, but nowhere did I find the quality of that Vermont preacher. He forged a religion designed to last, not predigested obsolescence.
 
 ### A Room with a View
 *E. M. Forster*
