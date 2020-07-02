@@ -20,46 +20,67 @@
 * [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
 * [A Room with a View](#a-room-with-a-view)
 
-### The Art of Learning
-*Josh Waitzkin*
+<hr>
 
 <img src="../resources/2020_books/taol.jpg" alt="The Art of Learning Book Cover" class="book-cover"> 
+
+### *The Art of Learning*
+
+*Josh Waitzkin*
+
+<a href="https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465">Amazon</a>
+
 <p style="clear: both;"></p>
 
-### Can't Hurt Me
-*David Goggins*
+<hr>
 
 <img src="../resources/2020_books/cant-hurt-me.jpg" alt="Can't Hurt Me Book Cover" class="book-cover">
+
+### Can't Hurt Me
+
+*David Goggins*
+
 <p style="clear: both;"></p>
 
-
-### Zen and the Art of Motercycle Maintenance
-*Robert M. Pirsig*
+<hr>
 
 <img src="../resources/2020_books/zmm.jpg" alt="Zen and the Art of Motercycle Maintenance Book Cover" class="book-cover">
+
+### Zen and the Art of Motercycle Maintenance
+
+*Robert M. Pirsig*
+
 <p style="clear: both;"></p>
 
-
-### Dune
-*Frank Herbert*
+<hr>
 
 <img src="../resources/2020_books/dune.jpg" alt="Dune Book Cover" class="book-cover">
+
+### Dune
+
+*Frank Herbert*
+
 <p style="clear: both;"></p>
 
-### Neverwhere
-*Neil Gaiman*
+<hr>
 
 <img src="../resources/2020_books/neverwhere.jpg" alt="Neverwhere Book Cover" class="book-cover">
+
+### Neverwhere
+
+*Neil Gaiman*
+
 <p style="clear: both;"></p>
 
-### Travels with Charley in Search of America
-*John Steinbeck*
+<hr>
 
 <img src="../resources/2020_books/travels-with-charley.jpg" alt="Travels with Charley Book Cover" class="book-cover">
 
-<br>
+### Travels with Charley in Search of America
 
-Steinbeck's road trip across America with his French poodle Charley makes for a charming and enjoyable read.
+*John Steinbeck*
+
+<!-- Steinbeck's road trip across America with his French poodle Charley makes for a charming and enjoyable read. -->
 
 <p style="clear: both;"></p>
 
@@ -68,10 +89,14 @@ Steinbeck's road trip across America with his French poodle Charley makes for a 
 
 > All across the country I went to church on Sundays, a different denomination every week, but nowhere did I find the quality of that Vermont preacher. He forged a religion designed to last, not predigested obsolescence.
 
-### A Room with a View
-*E. M. Forster*
+<hr>
 
 <img src="../resources/2020_books/a-room-with-a-view.jpeg" alt="A Room with a View Book Cover" class="book-cover">
+
+### A Room with a View
+
+*E. M. Forster*
+
 <p style="clear: both;"></p>
 
 ### Bonus: Spanish Titles
