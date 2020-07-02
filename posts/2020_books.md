@@ -24,11 +24,15 @@
 
 <img src="../resources/2020_books/taol.jpg" alt="The Art of Learning Book Cover" class="book-cover"> 
 
-### *The Art of Learning*
+### The Art of Learning
 
 *Josh Waitzkin*
 
-<a href="https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465">Amazon</a>
+<div class="description">
+
+Date read: May 2020 <br>
+Strength of recomendation: **10** / 10 <br> </div>
+<a href="https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465">Amazon page</a>
 
 <p style="clear: both;"></p>
 
