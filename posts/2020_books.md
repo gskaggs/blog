@@ -103,6 +103,8 @@ Strength of recomendation: **10** / 10 <br> </div>
 
 <p style="clear: both;"></p>
 
+<hr>
+
 ### Bonus: Spanish Titles
 * **Harry Potter y la Piedra Filosofal,** J. K. Rowling
 * **Percy Jackson: El Ladron del Rayo,** Rick Riordan
