@@ -29,10 +29,10 @@
 *Josh Waitzkin*
 
 <div class="description">
-
 Date read: May 2020 <br>
-Strength of recomendation: **10** / 10 <br> </div>
+Strength of recomendation: **10** / 10 <br> 
 <a href="https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465">Amazon page</a>
+</div>
 
 <p style="clear: both;"></p>
 
@@ -44,6 +44,12 @@ Strength of recomendation: **10** / 10 <br> </div>
 
 *David Goggins*
 
+<div class="description">
+Date read: May 2020 <br>
+Strength of recomendation: **10** / 10 <br> 
+<a href="https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287">Amazon page</a>
+</div>
+
 <p style="clear: both;"></p>
 
 <hr>
@@ -53,6 +59,12 @@ Strength of recomendation: **10** / 10 <br> </div>
 ### Zen and the Art of Motercycle Maintenance
 
 *Robert M. Pirsig*
+
+<div class="description">
+Date read: May 2020 <br>
+Strength of recomendation: **10** / 10 <br> 
+<a href="https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8">Amazon page</a>
+</div>
 
 <p style="clear: both;"></p>
 
@@ -64,6 +76,12 @@ Strength of recomendation: **10** / 10 <br> </div>
 
 *Frank Herbert*
 
+<div class="description">
+Date read: May 2020 <br>
+Strength of recomendation: **10** / 10 <br> 
+<a href="https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717">Amazon page</a>
+</div>
+
 <p style="clear: both;"></p>
 
 <hr>
@@ -74,6 +92,12 @@ Strength of recomendation: **10** / 10 <br> </div>
 
 *Neil Gaiman*
 
+<div class="description">
+Date read: May 2020 <br>
+Strength of recomendation: **10** / 10 <br> 
+<a href="https://www.amazon.com/Neverwhere-Novel-Neil-Gaiman-ebook/dp/B000FC130E">Amazon page</a>
+</div>
+
 <p style="clear: both;"></p>
 
 <hr>
@@ -83,6 +107,12 @@ Strength of recomendation: **10** / 10 <br> </div>
 ### Travels with Charley in Search of America
 
 *John Steinbeck*
+
+<div class="description">
+Date read: May 2020 <br>
+Strength of recomendation: **10** / 10 <br> 
+<a href="https://www.amazon.com/Travels-Charley-Search-America-Steinbeck/dp/0140053204">Amazon page</a>
+</div>
 
 <!-- Steinbeck's road trip across America with his French poodle Charley makes for a charming and enjoyable read. -->
 
@@ -100,6 +130,12 @@ Strength of recomendation: **10** / 10 <br> </div>
 ### A Room with a View
 
 *E. M. Forster*
+
+<div class="description">
+Date read: May 2020 <br>
+Strength of recomendation: **10** / 10 <br> 
+<a href="https://www.amazon.com/Room-View-Dover-Thrift-Editions/dp/0486284670">Amazon page</a>
+</div>
 
 <p style="clear: both;"></p>
 
