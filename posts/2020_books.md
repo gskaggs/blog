@@ -29,10 +29,12 @@
 *Josh Waitzkin*
 
 <div class="description">
-Date read: May 2020 <br>
-Strength of recomendation: **10** / 10 <br> 
+Date read: March 2020 <br>
+Strength of recomendation: **9** / 10 <br> 
 <a href="https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465">Amazon page</a>
 </div>
+
+Waitzkin provides a wealth of wisdom in the space of high performance psychology. My second time reading this book. 
 
 <p style="clear: both;"></p>
 
@@ -45,10 +47,12 @@ Strength of recomendation: **10** / 10 <br>
 *David Goggins*
 
 <div class="description">
-Date read: May 2020 <br>
+Date read: March 2020 <br>
 Strength of recomendation: **10** / 10 <br> 
 <a href="https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287">Amazon page</a>
 </div>
+
+The only audiobook I've ever listened to a second time as soon as I finished the first. Goggins overcame child abuse, poverty, and small-town racism to go on to lose over a 100 lbs and become a celebrated Navy SEAL and ultramarathon runner. Absolutely inspirational.
 
 <p style="clear: both;"></p>
 
@@ -61,10 +65,12 @@ Strength of recomendation: **10** / 10 <br>
 *Robert M. Pirsig*
 
 <div class="description">
-Date read: May 2020 <br>
+Date read: April 2020 <br>
 Strength of recomendation: **10** / 10 <br> 
 <a href="https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8">Amazon page</a>
 </div>
+
+A philosophical dive into the intersection of rationality, intuition, and values. This work greatly shaped the way I see Eastern and Western thought.
 
 <p style="clear: both;"></p>
 
@@ -77,10 +83,12 @@ Strength of recomendation: **10** / 10 <br>
 *Frank Herbert*
 
 <div class="description">
-Date read: May 2020 <br>
-Strength of recomendation: **10** / 10 <br> 
+Date read: April 2020 <br>
+Strength of recomendation: **9** / 10 <br> 
 <a href="https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717">Amazon page</a>
 </div>
+
+A masterpiece of world-building and story. I found myself listening to the audiobook for hours into the night, lost in Herbert's fiction.
 
 <p style="clear: both;"></p>
 
@@ -94,9 +102,11 @@ Strength of recomendation: **10** / 10 <br>
 
 <div class="description">
 Date read: May 2020 <br>
-Strength of recomendation: **10** / 10 <br> 
+Strength of recomendation: **7** / 10 <br> 
 <a href="https://www.amazon.com/Neverwhere-Novel-Neil-Gaiman-ebook/dp/B000FC130E">Amazon page</a>
 </div>
+
+A fun book, though unlikely to be remembered as Gaiman's greatest work. 
 
 <p style="clear: both;"></p>
 
@@ -109,12 +119,12 @@ Strength of recomendation: **10** / 10 <br>
 *John Steinbeck*
 
 <div class="description">
-Date read: May 2020 <br>
-Strength of recomendation: **10** / 10 <br> 
+Date read: June 2020 <br>
+Strength of recomendation: **7** / 10 <br> 
 <a href="https://www.amazon.com/Travels-Charley-Search-America-Steinbeck/dp/0140053204">Amazon page</a>
 </div>
 
-<!-- Steinbeck's road trip across America with his French poodle Charley makes for a charming and enjoyable read. -->
+Steinbeck's road trip across America with his French poodle Charley makes for a charming and enjoyable read.
 
 <p style="clear: both;"></p>
 
@@ -132,10 +142,12 @@ Strength of recomendation: **10** / 10 <br>
 *E. M. Forster*
 
 <div class="description">
-Date read: May 2020 <br>
-Strength of recomendation: **10** / 10 <br> 
+Date read: June 2020 <br>
+Strength of recomendation: **6** / 10 <br> 
 <a href="https://www.amazon.com/Room-View-Dover-Thrift-Editions/dp/0486284670">Amazon page</a>
 </div>
+
+Although I appreciated Forster's beautiful prose and the positive spirit of his ultimately feminist message, I couldn't help but feel the central romance of this novel has become, at least for a modern reader, predictable almost to the point of cliche.
 
 <p style="clear: both;"></p>
 
