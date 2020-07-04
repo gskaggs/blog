@@ -172,7 +172,6 @@ Taken with the previous quote, perhaps Forster is suggesting that men either car
 
 > “Life” wrote a friend of mine, “is a public performance on the violin, in which you must learn the instrument as you go along.”
 
-Love this quote. 
 
 <hr>
 
