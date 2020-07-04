@@ -160,6 +160,20 @@ Although I appreciated Forster's beautiful prose and the positive spirit of his 
 
 <p style="clear: both;"></p>
 
+**Notes:**
+
+> There is only one perfect view—the view of the sky straight over our heads, and that all these views on earth are but bungled copies of it.
+
+Above our heads is the heavenly ideal. It is that which we look up to with our aspirations and good intentions, that which we try to bring about in this world.
+
+> Men fall into two classes—those who forget views and those who remember them, even in small rooms.
+
+Taken with the previous quote, perhaps Forster is suggesting that men either care for seeing and doing what is right in the world or they reject and forget these ideals altogether.
+
+> “Life” wrote a friend of mine, “is a public performance on the violin, in which you must learn the instrument as you go along.”
+
+Love this quote. 
+
 <hr>
 
 ### Bonus: Spanish Titles
