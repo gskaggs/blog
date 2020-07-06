@@ -25,14 +25,15 @@
 
 <hr>
 
-<img src="" alt="" class="book-cover"> 
+<img src="../resources/commencement/gaiman.png" alt="Neil Gaiman" class="book-cover"> 
 
 ### Neil Gaiman's "Make Good Art"
  
 *Delivered to the 2012 graduating class of the University of the Arts*
 
 <div class="description">
-<a href="https://www.youtube.com/watch?v=ikAb-NYkseI">Youtube</a>
+<a href="https://www.youtube.com/watch?v=ikAb-NYkseI">Youtube</a> /
+<a href="https://jamesclear.com/great-speeches/make-good-art-by-neil-gaiman">Transcript</a>
 </div>
 
 <p style="clear: both;"></p>
