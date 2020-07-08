@@ -37,6 +37,9 @@
 </div>
 
 <p style="clear: both;"></p>
+
+> I learned to write by writing. I tended to do anything as long as it felt like an adventure, and to stop when it felt like work, which meant that life did not feel like work. 
+
 **Notes:** 
 
 Gaiman didn't go to University. He felt the need to write and put himself out into the world.
@@ -55,7 +58,6 @@ Gaiman gives the graduating class several pieces of advice:
 
 Finally, Gaiman concludes that if you don't know what you're doing, then pretend you are someone who is wise or competenet. Then just behave how that person would.
 
-> I learned to write by writing. I tended to do anything as long as it felt like an adventure, and to stop when it felt like work, which meant that life did not feel like work. 
 
 <hr>
 
