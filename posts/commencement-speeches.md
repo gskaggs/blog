@@ -89,21 +89,33 @@ Finally, Gaiman concludes that if you don't know what you're doing, then pretend
 
 <hr>
 
-<img src="" alt="" class="book-cover"> 
+<img src="../resources/commencement/mc-raven.png" alt="Mc Raven's Make Your Bed" class="book-cover"> 
 
-### 
+### Admiral William H. McRaven's "Make Your Bed"
 
-*Delivered to the*
+*Delivered to the 2014 graduating class of the University of Texas at Austin*
 
 <div class="description">
-<a href="">Youtube</a>
+<a href="https://www.youtube.com/watch?v=pxBQLFLei70">Youtube</a> /
+<a href="https://jamesclear.com/great-speeches/make-your-bed-by-admiral-william-h-mcraven">Transcript</a>
 </div>
 
 <p style="clear: both;"></p>
 **Notes:**
 
-<hr>
+UT’s slogan is “What starts here changes the world.” McRaven points out that the effects of even small, simple decisions propagate across time and generations to have huge consequences. Indeed, this class of 8000 graduates has in their collective actions the potential to truly improve the world.
 
+He draws upon his experience in Navy SEAL training, giving the graduating class some advice for their coming journeys:
 
+1. Make your bed. This habit reminds you that excellence in the little things of life matters. The made bed provides a small source of pride in the morning. And besides, no matter how terrible your day, at least you’ll come home to the encouragement of a bed you made for yourself.
+1. You’ll need teamwork to change the world.
+1. Measure people not by their appearance, but instead by their character.
+1. Sometimes your best effort won’t prevent you from failing.
+1. In fact, you will likely have to fail often and should not be afraid of failure.
+1. Sometimes innovation requires courage in the face of risk and adversity.
+1. Stand your ground to the bullies.
+1. In the darkest moments, show your very best.
+1. Hope, given to others in times of struggle, is an immensely powerful gift.
+1. Never give up.
 
 
