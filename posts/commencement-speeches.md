@@ -10,14 +10,15 @@
 
 <hr>
 
-<img src="../resources/2020_books/taol.jpg" alt="The Art of Learning Book Cover" class="book-cover"> 
+<img src="../resources/commencement/wallace.jpg" alt="David Foster Wallace This is Water" class="book-cover"> 
 
 ### David Foster Wallace's "This is Water"
 
-*Delivered to the 2005 graduating class of Kenyon College.*
+*Delivered to the 2005 graduating class of Kenyon College*
 
 <div class="description">
-<a href="https://www.youtube.com/watch?v=8CrOL-ydFMI">Youtube</a>
+<a href="https://www.youtube.com/watch?v=8CrOL-ydFMI">Youtube</a> / 
+<a href="https://jamesclear.com/great-speeches/this-is-water-by-david-foster-wallace">Transcript</a>
 </div>
 
 <p style="clear: both;"></p>
