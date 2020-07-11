@@ -123,6 +123,9 @@ Finally, Gaiman concludes that if you don't know what you're doing, then pretend
 </div>
 
 <p style="clear: both;"></p>
+
+> It's been almost 37 years to the day that I graduated from UT. I remember a lot of things about that day. I remember I had throbbing headache from a party the night before. I remember I had a serious girlfriend, whom I later married — that's important to remember by the way — and I remember that I was getting commissioned in the Navy that day.
+
 **Notes:**
 
 UT’s slogan is “What starts here changes the world.” McRaven points out that the effects of even small, simple decisions propagate across time and generations to have huge consequences. Indeed, this class of 8000 graduates has in their collective actions the potential to truly improve the world.
