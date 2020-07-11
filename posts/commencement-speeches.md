@@ -22,7 +22,26 @@
 </div>
 
 <p style="clear: both;"></p>
+
+> There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says “Morning, boys. How’s the water?” And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes “What the hell is water?” 
+
 **Notes:**
+
+The real value of a liberal arts education is not the familiar cliche of “teaching you how to think.” More subtly, its value instead lies in the option of *what* to think.
+
+Wallace asks the audience to consider a hypothetical conversation between an atheist and a Christian. These two characters discuss the atheist’s miraculous near-death experience and of course both come away with two completely different interpretations. These two differing interpretations remind us that our beliefs shape the way derive meaning from experience. 
+
+It’s easy to let the analysis stop there. In doing so, however, we never consider how or why these men believe what they do.
+
+Too often we similarly ignore our own ability to chose what we believe. Put in other words, we ignore our own autonomy to choose what we think. More personally, Wallace considers how often his arrogance keeps him from reflecting on his beliefs, how often he lives entrenched in erroneous blind certainties. 
+
+Working the same tiring job, driving the same boring commute, day in and day out for years, many people slip into patterns of stress, anxiety, and anger. The loud annoying people in the supermarket are in *my* way. The slow, monotonous rush hour traffic becomes all about *my* fatigue and *my* need to get home. The experience of coming home from work is viewed through the unconscious, unacknowledged belief that in that moment everything is about myself. 
+
+But this is a choice. A choice which could instead lead me to consider that the people in the supermarket are suffering just as much as me. Maybe the person who cut me off in traffic is in an even greater and more valid hurry than myself, and just maybe, it’s possible that I’m actually the one in his way.
+
+The insidious thing about self-centeredness and material desires is that these are the kinds of things you come to value gradually and unconsciously. Without even realizing it, you are increasingly selective about what you see and value and believe.
+
+The antidote is reminding yourself “this is water, this is water,” exerting the necessary effort to stay conscious and aware through the tedium and difficulty of adult existence.
 
 <hr>
 
