@@ -50,7 +50,7 @@ Wallace asks the audience to consider a hypothetical conversation between an ath
 
 It’s easy to let the analysis stop there. In doing so, however, we never consider how or why these men believe what they do.
 
-Too often we similarly ignore our own ability to chose what we believe. Put in other words, we ignore our own autonomy to choose what we think. More personally, Wallace considers how often his arrogance keeps him from reflecting on his beliefs, how often he lives entrenched in erroneous blind certainties. 
+Too often we similarly ignore our own ability to choose what we believe. More personally, Wallace considers how often his arrogance keeps him from reflecting on his beliefs, how often he lives entrenched in erroneous blind certainties. 
 
 Working the same tiring job, driving the same boring commute, day in and day out for years, many people slip into patterns of stress, anxiety, and anger. The loud annoying people in the supermarket are in *my* way. The slow, monotonous rush hour traffic becomes all about *my* fatigue and *my* need to get home. The experience of coming home from work is viewed through the unconscious, unacknowledged belief that in that moment everything is about myself. 
 
