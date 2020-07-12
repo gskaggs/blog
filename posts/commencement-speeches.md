@@ -1,23 +1,40 @@
-% Commencement Speeches 
+% My Favorite Commencement Speeches 
 % Grant Skaggs 
-% 5 July 2020
+% 12 July 2020
 
 <link rel="stylesheet" href="../css/posts.css">
 
-# My Top 5 Favorite Commencement Speeches 
+# My Favorite Commencement Speeches 
 
+Here are links to some of my favorite commencement speeches, as well as notes for the three which have influenced me the most. Enjoy!
 
+<hr>
+
+### YouTube Links to My Favorite Speeches
+
+- <a href="https://www.youtube.com/watch?v=8CrOL-ydFMI">This is Water,</a> David Foster Wallace
+- <a href="https://www.youtube.com/watch?v=ikAb-NYkseI">Make Good Art,</a> Neil Gaiman
+- <a href="https://www.youtube.com/watch?v=pxBQLFLei70">Make Your Bed,</a> Admiral McRaven
+- <a href="https://www.youtube.com/watch?v=UF8uR6Z6KLc">Stanford 2005,</a> Steve Jobs
+- <a href="https://www.youtube.com/watch?v=0AriZhzeHbA">Kenyon College 2016,</a> John Green
+- <a href="https://www.youtube.com/watch?v=mfjGmBVAL-o">USC 2017,</a> Will Ferrell
+- <a href="https://www.youtube.com/watch?v=yPl3X6whm3A">Harvard 2003,</a> Will Ferrell
+- <a href="https://www.youtube.com/watch?v=NXXivAiS59Y">Stanford Class Day 2013,</a> Mehran Sahami
+- <a href="https://www.youtube.com/watch?v=wMV77xYdEa4">University of Texas 2020,</a> Brene Brown
+- <a href="https://www.youtube.com/watch?v=BmCTQ_mkzHU">University of Houston 2015,</a> Mathew McConaughey
+
+<a href=""></a>
 
 <hr>
 
 <img src="../resources/commencement/wallace.jpg" alt="David Foster Wallace This is Water" class="book-cover"> 
 
-### David Foster Wallace's "This is Water"
+### 1. David Foster Wallace's "This is Water"
 
 *Delivered to the 2005 graduating class of Kenyon College*
 
 <div class="description">
-<a href="https://www.youtube.com/watch?v=8CrOL-ydFMI">Youtube</a> / 
+<a href="https://www.youtube.com/watch?v=8CrOL-ydFMI">YouTube</a> / 
 <a href="https://jamesclear.com/great-speeches/this-is-water-by-david-foster-wallace">Transcript</a>
 </div>
 
@@ -47,12 +64,12 @@ The antidote is reminding yourself “this is water, this is water,” exerting 
 
 <img src="../resources/commencement/gaiman.png" alt="Neil Gaiman's Make Good Art" class="book-cover"> 
 
-### Neil Gaiman's "Make Good Art"
+### 2. Neil Gaiman's "Make Good Art"
  
 *Delivered to the 2012 graduating class of the University of the Arts*
 
 <div class="description">
-<a href="https://www.youtube.com/watch?v=ikAb-NYkseI">Youtube</a> /
+<a href="https://www.youtube.com/watch?v=ikAb-NYkseI">YouTube</a> /
 <a href="https://jamesclear.com/great-speeches/make-good-art-by-neil-gaiman">Transcript</a>
 </div>
 
@@ -78,47 +95,16 @@ Gaiman gives the graduating class several pieces of advice:
 
 Finally, Gaiman concludes that if you don't know what you're doing, then pretend you are someone who is wise or competenet. Then just behave how that person would.
 
-
-<hr>
-
-<img src="" alt="" class="book-cover"> 
-
-### 
-
-*Delivered to the*
-
-<div class="description">
-<a href="">Youtube</a>
-</div>
-
-<p style="clear: both;"></p>
-**Notes:**
-
-<hr>
-
-<img src="" alt="" class="book-cover"> 
-
-### 
-
-*Delivered to the*
-
-<div class="description">
-<a href="">Youtube</a>
-</div>
-
-<p style="clear: both;"></p>
-**Notes:**
-
 <hr>
 
 <img src="../resources/commencement/mc-raven.png" alt="Mc Raven's Make Your Bed" class="book-cover"> 
 
-### Admiral William H. McRaven's "Make Your Bed"
+### 3. Admiral William H. McRaven's "Make Your Bed"
 
 *Delivered to the 2014 graduating class of the University of Texas at Austin*
 
 <div class="description">
-<a href="https://www.youtube.com/watch?v=pxBQLFLei70">Youtube</a> /
+<a href="https://www.youtube.com/watch?v=pxBQLFLei70">YouTube</a> /
 <a href="https://jamesclear.com/great-speeches/make-your-bed-by-admiral-william-h-mcraven">Transcript</a>
 </div>
 
