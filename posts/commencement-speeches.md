@@ -10,7 +10,7 @@ Here are links to some of my favorite commencement speeches, as well as notes fo
 
 <hr>
 
-### YouTube Links to My Favorite Speeches
+### YouTube Links to My Favorites
 
 - <a href="https://www.youtube.com/watch?v=8CrOL-ydFMI">This is Water,</a> David Foster Wallace
 - <a href="https://www.youtube.com/watch?v=ikAb-NYkseI">Make Good Art,</a> Neil Gaiman
