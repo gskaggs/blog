@@ -187,7 +187,7 @@ Strength of recomendation: **8** / 10 <br>
 <a href="https://www.amazon.com/American-Gods-Neil-Gaiman/dp/0380973650">Amazon page</a>
 </div>
 
-A thrilling novel providing deep insight into America and the nature of human belief. 
+A thrilling novel. Gaiman explores gods old and new, providing deep insight into America and the nature of human belief. 
 
 <p style="clear: both;"></p>
 
