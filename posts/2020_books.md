@@ -48,7 +48,7 @@ Waitzkin provides a wealth of wisdom in the space of high performance psychology
 
 <div class="description">
 Date read: March 2020 <br>
-Strength of recomendation: **10** / 10 <br> 
+Strength of recomendation: **9** / 10 <br> 
 <a href="https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287">Amazon page</a>
 </div>
 
