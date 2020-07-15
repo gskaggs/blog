@@ -7,7 +7,6 @@
 # 2020 Reading List
 
 ### Reading Now
-* **American Gods,** Neil Gaiman
 * **The Selfish Gene,** Richard Dawkins 
 
 ### Read So Far
@@ -19,6 +18,7 @@
 * [Neverwhere](#neverwhere)
 * [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
 * [A Room with a View](#a-room-with-a-view)
+* [American Gods](#american-gods)
 
 <hr>
 
@@ -174,6 +174,26 @@ Taken with the previous quote, perhaps Forster is suggesting that men either car
 
 
 <hr>
+
+<img src="../resources/2020_books/american-gods.jpg" alt="American Gods Book Cover" class="book-cover">
+
+### American Gods 
+
+*Neil Gaiman*
+
+<div class="description">
+Date read: July 2020 <br>
+Strength of recomendation: **8** / 10 <br> 
+<a href="https://www.amazon.com/American-Gods-Neil-Gaiman/dp/0380973650">Amazon page</a>
+</div>
+
+A thrilling novel providing deep insight into America and the nature of human belief. 
+
+<p style="clear: both;"></p>
+
+<hr>
+
+
 
 ### Bonus: Spanish Titles
 * **Harry Potter y la Piedra Filosofal,** J. K. Rowling
