@@ -1,44 +1,50 @@
 % How to Learn Python 
 % Grant Skaggs 
-% 31 May 2020
+% 15 July 2020
 
 # How to Learn Python 
 
 ### 1. Let the Googling begin
 
-Unlike the rest of the items in this list, this is not an action item. Rather it’s a mindset and a warning: Be prepared to Google. A lot. Everything. 
+This first one’s a warning and a mindset: Be prepared to Google. 
 
-If you’re truly starting from scratch with a new language, then you have everything to learn. Accept and embrace that fact. 
+A lot. 
 
-Not sure how to reverse the characters of string in Python? Google it.
-Not sure what’s a string in Python? Google it.
-Not sure what’s a Python in Python? Google it.
+Everything. 
 
-Stack overflow will become your friend, as will the online documentation for Python.
+How do I reverse an array in Python? Beats me, Google it.
+What’s the difference between Python versions 2 and 3? Literally everything. Just kidding, Google it.
+Not sure what are these classes and objects things in Python? Google it. Your mind will be blown.
+Why am I getting an error message? Idk Google it.
+Why am I *still* getting this error? Do I look like Google?
+
+You get the picture. 
+
+This process can be annoying, frustrating, and time-consuming. But recognize that not only are you learning how to program, you’re also learning how to find answers to tricky problems and teach yourself difficult concepts—skills more valuable than knowledge of any individual coding language.
+
+After many, many searches Stack Overflow becomes your best friend, as does the online documentation for Python. You’ll find tutorials, textbooks, and YouTube videos on everything from installing Python to building scalable web servers, from the basics of Python syntax and the magic of object oriented programming.
 
 ### 2. Use Coding Bat
 
-This website provides an invaluable source of simple programming puzzles. Users can create their own account and watch their progress as they submit correct solution to problems. When I taught Python programming last summer I had students do several problems from each section as homework and left the rest to be done as extra practice at the student’s discretion.
+This website provides an invaluable source of simple programming puzzles. Users can create their own account and visualize their progress as they submit correct solution to problems. When I taught Python programming last summer I had students do several problems from each section as homework and left the rest to be done as extra practice at the students’ discretions.
 
-As you do these, I’d urge you to not stop when you see the satisfying green UI element indicating a correct solution. Programming is a craft. Constantly ask yourself: how could I have written this in a more concise way? How could this have been simpler? How could I have gotten to the solution faster? 
+As you do these, I urge you to pause after you achieve each correct solution. Programming is a craft, and you should constantly ask yourself: how could I have written this code more concisely? How could I make this solution simpler? How could I have solved the problem faster? 
 
-### 3. Practice with Competition Problems (Optional)
+### 3. Practice with Competition and Interview Problems (Optional)
 
-Note that for the casual learner of Python, this step might be wholly unnecessary, as the fundamentals are sufficient for your purposes.
+*Note that for the casual learner of Python, this step might be unnecessary, as the fundamentals acquired in step 2 may be sufficient for your purposes.*
 
-Soon Coding Bat problems will become too easy. At this point I’d recommend checking out USACO.org and CodeForces to find a large swath of competitive programming problems to challenge you. Here you’ll learn more advanced data structures (This process involves a lot of the Googling from step 1) and gain valuable exposure to the types of questions a Software Engineer might ask you in an interview. In fact, if you’re particularly interested in preparing for such interviews, I’d recommend the classic texts: EPI and CTCI
+Soon Coding Bat problems will become too easy. At this point I’d recommend checking out [USACO](https://train.usaco.org/), [Hacker Rank](https://hackerrank.com), and [LeetCode](https://leetcode.com/) for challenging competitive programming and interview problems. Here you’ll learn more advanced data structures and gain valuable exposure to the algorithmic demands central to software engineering and computer science. 
 
+If you’re particularly interested in preparing for technical interviews, I’d recommend the classic texts: [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_bxgy_img_3/143-1627086-5954734?_encoding=UTF8&pd_rd_i=1537713949&pd_rd_r=49b81357-cfa3-4495-8346-388615d44715&pd_rd_w=9f7JR&pd_rd_wg=X0yqd&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=MBNTYJBBJ6T0T7FB1YE8&psc=1&refRID=MBNTYJBBJ6T0T7FB1YE8) and [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850).
 
+### 4. Run with It
 
-### 4. Make Projects
+Now’s the time to jump right in. You know functions, datatypes, if statements, for loops, classes, and objects? Then you probably know enough to start working on whatever projects you find exciting. Maybe you’re interested in neural networks. Or video games. Or statistics for biomedical research. Find some tutorials and get after it!
 
-If there’s some project which pulled you to learning Python in the first place. Now’s the time to jump right in. If you know how functions, strings, arrays, arithmetic, and classes work in Python, you probably know enough to start working on whatever project you find exciting. Maybe you’re interested in neural networks. Or video games. Or statistics for biomedical research. In any case, you should know enough to find tutorials and figure things out as you go along. I strongly believe this is the most effective way to learn any language.
-
-For inspiration check out Pyxeled, a project I worked on Python to convert real images into pixel art.
+For inspiration check out [Pyxeled] (https://www.grantskaggs.com/pyxeled), a project I programmed in Python to convert real images into pixel art.
 
 ### 5. Teach
 
-Remember the munchkins from earlier in the post. What they (and their parents) didn’t realize is that I had no prior education or work experience with Python. I just taught myself through projects and online tutorials. Ultimately, that summer, lecturing about the language and mentoring younger students helped burn the fundamental syntax and more esoteric idiosyncrasies of the language into my head. When you’ve reached a high enough proficiency with Python, I highly recommend tutoring other students or helping any friends who may also be learning the language.
-
-
+Remember the munchkins from earlier in the post. Until then I had no prior formal education or work experience with Python. However, that summer, lecturing and mentoring these younger students burned into me both the fundamentals and elusive idiosyncrasies of the language. When you’ve reached an appropriate proficiency with Python, I highly recommend tutoring other students or helping any friends who may also be learning the language.
 
