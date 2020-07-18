@@ -1,6 +1,8 @@
 % How to Learn Python 
 % Grant Skaggs 
-% 15 July 2020
+% 18 July 2020
+
+<link rel="stylesheet" href="../css/posts.css">
 
 # How to Learn Python 
 
@@ -20,7 +22,7 @@ Enjoy!
 
 ### 2. Practice with Competition and Interview Problems
 
-<img src="../resources/learning-python/leet_code.png" alt="LeetCode website" style="width:100%;">
+<img src="../resources/learning-python/leet_code.png" alt="LeetCode website" style="width:100%;" class="b">
 
 *Note that for the casual programmer, this section might be unnecessary, as the fundamentals acquired in step 1 may be sufficient for your purposes. If this is the case, feel free to skip to step 3.*
 
@@ -63,7 +65,7 @@ This process can be annoying and frustrating and time-consuming. But recognize t
 
 Very, very quickly Stack Overflow becomes your best friend, as does the online documentation for Python. At your fingertips you’ll discover tutorials, textbooks, and YouTube videos on everything from installing Python to building scalable web servers, from the basics of Python syntax to the most confusing data strucsures and algorithms. Good luck! <br>
 
-<img src="../resources/learning-python/stack_overflow.png" alt="Stack Overflow meme" style="max-width:40%; display:block; margin:auto; border: 2px solid black">
+<img src="../resources/learning-python/stack_overflow.png" alt="Stack Overflow meme" style="max-width:50%; display:block; margin:auto; border: 2px solid black">
 
 <p style="max-width:40%; display:block; margin:auto; text-align:center;">Image Source: [Reddit](https://www.reddit.com/r/ProgrammerHumor/comments/f5lxl4/stackoverflow_in_a_nutshell/)</p>
 
