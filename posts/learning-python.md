@@ -17,9 +17,6 @@ On this site, I urge you to pause after achieving each correct solution. Program
 
 If you’re having trouble getting started, make sure to check out CodingBat’s example code and tutorials [here.](https://codingbat.com/doc/code-help-videos.html) 
 
-Enjoy!
-
-
 ### 2. Practice with Competition and Interview Problems
 
 <img src="../resources/learning-python/leet_code.png" alt="LeetCode website" style="width:100%;" class="b">
