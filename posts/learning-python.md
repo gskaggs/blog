@@ -4,12 +4,12 @@
 
 # How to Learn Python 
 
-Since starting my degree in computer science, I’ve received several requests from friends and family for advice on getting started with programming, and in particular, getting started with Python programming. In this post, I  
+<br>Since starting my degree in computer science, I’ve received several requests from friends and family for advice on getting started with programming, and in particular, getting started with Python programming. In this post I compiled a list of resources and lessons I would recommend to anyone learning Python.<br><hr>
 
-### 1. Start with Coding Bat
+### 1. Start with CodingBat
 <img src="../resources/learning-python/coding_bat.png" alt="Coding Bat website" style="max-width:40%; float:right;">
 
-[Coding Bat](https://codingbat.com/python) provides an invaluable supply of simple programming puzzles. Users create their own accounts and can see their progress as they through the fundamentals of Python syntax and logic. When I taught programming last summer, I had students do several problems from each section as homework and left the rest to be done at the student’s discretion.
+[CodingBat](https://codingbat.com/python) provides an invaluable supply of simple programming puzzles. Users create their own accounts and can see their progress as they through the fundamentals of Python syntax and logic. When I taught programming last summer, I had students do several problems from each section as homework and left the rest to be done at the student’s discretion.
 
 On this site, I urge you to pause after achieving each correct solution. Programming is a craft, and you should constantly ask yourself: how could I have written this code more concisely? How could I make this solution simpler? How could I have solved the problem faster? 
 
@@ -19,6 +19,8 @@ Enjoy!
 
 
 ### 2. Practice with Competition and Interview Problems
+
+<img src="../resources/learning-python/leet_code.png" alt="LeetCode website" style="width:100%;">
 
 *Note that for the casual programmer, this section might be unnecessary, as the fundamentals acquired in step 1 may be sufficient for your purposes. If this is the case, feel free to skip to step 3.*
 
@@ -54,6 +56,10 @@ You get the picture.
 
 This process can be annoying and frustrating and time-consuming. But recognize that in this endeavor you’re not just learning how to program. You’re learning how to teach yourself difficult concepts and solve stubborn problems—skills far more valuable than knowledge of any individual coding language.
 
-Very, very quickly Stack Overflow becomes your best friend, as does the online documentation for Python. Online, you’ll find tutorials, textbooks, and YouTube videos on everything from installing Python to building scalable web servers, from the basics of Python syntax to the most confusing datastrucsures and algorithms. Good luck!
+Very, very quickly Stack Overflow becomes your best friend, as does the online documentation for Python. Online, you’ll find tutorials, textbooks, and YouTube videos on everything from installing Python to building scalable web servers, from the basics of Python syntax to the most confusing datastrucsures and algorithms. Good luck! <br>
+
+<img src="../resources/learning-python/stack_overflow.png" alt="Stack Overflow meme" style="max-width:40%; display:block; margin:auto; border: 2px solid black">
+
+<p style="max-width:40%; display:block; margin:auto; text-align:center;">Image Source: [Reddit](https://www.reddit.com/r/ProgrammerHumor/comments/f5lxl4/stackoverflow_in_a_nutshell/)</p>
 
 
