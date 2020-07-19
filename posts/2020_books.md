@@ -7,7 +7,8 @@
 # 2020 Reading List
 
 ### Reading Now
-* **The Selfish Gene,** Richard Dawkins 
+* **The Republic,** Plato
+* **Dracula,** Bram Stoker
 
 ### Read So Far
 
@@ -19,6 +20,7 @@
 * [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
 * [A Room with a View](#a-room-with-a-view)
 * [American Gods](#american-gods)
+* [The Selfish Gene](#the-selfish-gene)
 
 <hr>
 
@@ -188,6 +190,24 @@ Strength of recomendation: **8** / 10 <br>
 </div>
 
 A thrilling novel. Gaiman explores gods old and new, providing deep insight into America and the nature of human belief. 
+
+<p style="clear: both;"></p>
+
+<hr>
+
+<img src="../resources/2020_books/selfish-gene.jpg" alt="The Selfish Gene Book Cover" class="book-cover">
+
+### The Selfish Gene
+
+*Richard Dawkins*
+
+<div class="description">
+Date read: July 2020 <br>
+Strength of recomendation: **9** / 10 <br> 
+<a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_3?dchild=1&keywords=The+Selfish+Gene&qid=1595179526&sr=8-3">Amazon page</a>
+</div>
+
+Dawkins explores economic and evolutionary theory to explain the interplay of selfishness and altruism in nature. Worth reading alone for the incredible descriptions of regicidal insect colonies, game-theoretic fig trees, and the first ever use of the word *meme.* 
 
 <p style="clear: both;"></p>
 
