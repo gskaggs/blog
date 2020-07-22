@@ -209,37 +209,37 @@ Strength of recomendation: **9** / 10 <br>
 Dawkins explores economic and evolutionary theory to explain the interplay of selfishness and altruism in nature. Worth reading alone for the incredible descriptions of regicidal insect colonies, game-theoretic fig trees, and the first ever use of the word *meme.* 
 
 <p style="clear: both;"></p>
-*Notes:*
+**Notes:**
 
-An organism is altruistic if it behaves in such a way as to benefit another at its own expense. Conversely, an organism is selfish if it benefits itself at the expense of another.
+The simple reasoning that altruism evolved since populations whose members behaved selfishly failed to outcompete the altruistic opposition falls under the umbrella of ‘group theory.’ Though at first appealing, this idea explanation not stand to a closer inspection.
 
-The simple explanation that altruism evolved in nature since populations whose members behaved selfishly failed to outcompete the altruistic populations is called ‘group theory.’ Though at first appealing, this idea does not stand to a closer inspection.
-
-Indeed, should a few birds who carry a gene for a particular selfish behavior find themselves by chance in an otherwise altruistic population, one could imagine that they might take advantage of the other birds. By definition, these few birds would have benefited themselves and consequently their own chances of propagating their selfish genes into the future. Generations later through iterations of natural selection, many members of the population may carry the gene for this selfish behavior. Clearly, a closer look is necessary.
-
-Sometimes Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” In the chaos surrounding the origins of life and DNA, this maxim rings particularly true. Here, the simple replicators which preceded modern genetic material did well if they possessed three qualities 1. longevity: they did not easily breakdown, 2. fecundity: they replicated quickly, and 3. accuracy: they replicated with minimal error. 
+In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” In the chaos surrounding the origins of life and DNA, this modification rings particularly true. Here, the simple replicators which preceded modern genetic material did well if they possessed three qualities 1. *longevity:* they did not easily breakdown, 2. *fecundity:* they replicated quickly, and 3. *accuracy:* they replicated with minimal error. 
 
 Dawkins defines a gene as: *any portion of chromosomal material that potentially lasts for enough generations to serve as a unit of natural selection.*
 
-Fireflies attract their mates by flashing particular sequences of lights. There exists a species of the genus *Photuris* which has evolved to mimic the flashing pattern of genus *Photinus.* In doing so, the females of the former attract and then eat the males of the latter.
+Dawkins defines an Evolutionary Stable Strategy or ESS as: *a strategy which, if most members of a species adopt it, cannot be beaten by another strategy.* Such a strategy may very well be encoded genetically and may therefore be subject to the same Darwinian analysis as any other phenotype. 
 
-Dawkins defines an Evolutionary Stable Strategy as: *a strategy which, if most members of a species adopt it, cannot be beaten by another strategy.* This strategy may very often be encoded genetically and is therefor subject to the same analysis as any other Darwinian entity. Consider for example, the practice of cuckoo birds to parasite the nests of other species. Any cuckoo born without genetic encoding to employ this strategy would be at a certain disadvantage and thus its genes would ultimately not prevail over the majority. 
+Consider for example, the practice of cuckoo birds to parasite the nests of other species. This qualifies as an ESS since any cuckoo born without genetic encoding to employ this strategy would be at a certain disadvantage and ultimately its genes would not prevail over the majority. 
 
-One Evolutionary Stable Strategy or ESS may be altruism toward one’s close relatives. A gene which codes this behavior would do well to conduct an individual to help his family since with some probability the gene likely exists in the individual’s brothers, sisters, and parents. Since an individual is not as likely to share genetic material with strangers or even his cousins, we would not expect an altruistic gene toward these individuals to flourish.
-
-In biological terms, the fundamental difference between males and females of a given species is that male gametes are smaller and more numerous than the gametes of females. Dawkins offers a compelling explanation for why this asymmetry evolved. Originally, a gene produced some gametes which were slightly bigger than the others within the species. This gene did well since the bigger gamete provided a stronger start to offspring. Another gene came along which took advantage of the prior one by producing smaller gametes at lower cost and now a potentially lower risk of the offspring dying. Genes which produced gametes in the middle did not benefit from the advantages of either extreme.
-
-The consequences of this asymmetry are many and profound. One of them is that males may be more likely to abandon their child and instead pursue other mates. To combat such behavior, females of several species have evolved to either a) play coy, making males invest more time and energy in the process of mate-finding or b) chose to mate with the strongest, most environmentally fit male regardless of the likelihood of his honesty. 
-
-There are some species of ants who wage war on and kidnap the eggs of other ant colonies. Once hatched these eggs are kept as the unwitting slaves of the aggressor ants, unaware that they’re not even serving their own species.
+In biological terms, the fundamental difference between males and females is that male gametes are smaller and more numerous than the gametes of females. The consequences of this asymmetry are many and profound. One is that males may be more likely to abandon their children in favor of pursuing other mates. To combat such behavior, females of several species evolved to either a) play coy, forcing males to invest more time and energy in the process of mate-finding or b) chose to mate with the strongest, most environmentally fit males regardless his potentially improbable honesty. 
 
 Naked mole rats organize themselves very similarly to social insects like bees and ants. In fact, in any given colony only one female, called the queen, breeds, and similarly the vast majority of work is done by sterile individuals called workers.
+
+Some species of ants wage war on and kidnap the eggs of other ant colonies. Once hatched these eggs are kept as the unwitting slaves of the aggressor ants. Even as they mature into adult worker ants, these slaves remain unaware that they don’t even serve their own species.
 
 Dawkins defines memes as: *units of cultural transmission.* These are the new replicators. The ideas, songs, fashions, catch-phrases which abound in the primeval soup of human culture.
 
 We can apply the same analysis of longevity, fecundity, and replication accuracy to memes. Additionally, we note that memes which do well are often psychologically appealing. 
 
-The fundamental principle necessary for memes to existence in a population is the propensities of individuals to mimic one-another. In fact some birds have been observed repeating songs to one another 
+The fundamental principle necessary for memes to existence in a population is the capability of individuals to mimic one-another. In fact, in this respect the songs which live and mutate within populations of some bird species qualify as memes.
+
+A parasite may transport its genes via the same vehicle as its host, i.e. through the host’s gametes in sexual reproduction. If this is the case, then the parasite has everything to gain by helping its host to survive and procreate, and over evolutionary time will cease to be a parasite at all.
+
+In the ant species *Bothriomyrmex regicides* and *B. decapitans* the queen sneaks into a foreign colony, assassinates via decapitation the rival queen, and then presides over the workers who unsuspectingly tend to her eggs and larvae. Over time her children will outnumber and replace the workers of the previous species. Some will fly to other colonies and repeat the regicidal ritual.
+
+Fireflies attract their mates by flashing particular sequences of lights. The genus *Photuris* has evolved to mimic the flashing pattern of genus *Photinus.* In doing so, the females of the former attract and then devour the males of the latter.
+
+
  
 <hr>
 
