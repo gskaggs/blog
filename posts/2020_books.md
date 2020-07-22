@@ -211,9 +211,7 @@ Dawkins explores economic and evolutionary theory to explain the interplay of se
 <p style="clear: both;"></p>
 **Notes:**
 
-The simple reasoning that altruism evolved since populations whose members behaved selfishly failed to outcompete the altruistic opposition falls under the umbrella of ‘group theory.’ Though at first appealing, this idea explanation not stand to a closer inspection.
-
-In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” In the chaos surrounding the origins of life and DNA, this modification rings particularly true. Here, the simple replicators which preceded modern genetic material did well if they possessed three qualities 1. *longevity:* they did not easily breakdown, 2. *fecundity:* they replicated quickly, and 3. *accuracy:* they replicated with minimal error. 
+In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” In the chaotic origins of life and DNA, this modification rings particularly true. In those conditions, the simple replicators which preceded modern genetic material did well if they possessed three qualities 1. *longevity:* they did not easily breakdown, 2. *fecundity:* they replicated quickly, and 3. *accuracy:* they replicated with minimal error. 
 
 Dawkins defines a gene as: *any portion of chromosomal material that potentially lasts for enough generations to serve as a unit of natural selection.*
 
@@ -223,15 +221,15 @@ Consider for example, the practice of cuckoo birds to parasite the nests of othe
 
 In biological terms, the fundamental difference between males and females is that male gametes are smaller and more numerous than the gametes of females. The consequences of this asymmetry are many and profound. One is that males may be more likely to abandon their children in favor of pursuing other mates. To combat such behavior, females of several species evolved to either a) play coy, forcing males to invest more time and energy in the process of mate-finding or b) chose to mate with the strongest, most environmentally fit males regardless his potentially improbable honesty. 
 
-Naked mole rats organize themselves very similarly to social insects like bees and ants. In fact, in any given colony only one female, called the queen, breeds, and similarly the vast majority of work is done by sterile individuals called workers.
+Naked mole rats organize themselves similarly to social insects like bees and ants. In fact, in any given mole rate colony only one female, called the queen, breeds, and the vast majority of work is done by sterile individuals called workers.
 
-Some species of ants wage war on and kidnap the eggs of other ant colonies. Once hatched these eggs are kept as the unwitting slaves of the aggressor ants. Even as they mature into adult worker ants, these slaves remain unaware that they don’t even serve their own species.
+Some species of ants wage war on and kidnap the eggs of other ant colonies. Once hatched these eggs are kept as the unwitting slaves of the aggressor ants. Even as they mature into adult worker ants, these slaves remain unaware that they serve a foreign species.
 
 Dawkins defines memes as: *units of cultural transmission.* These are the new replicators. The ideas, songs, fashions, catch-phrases which abound in the primeval soup of human culture.
 
 We can apply the same analysis of longevity, fecundity, and replication accuracy to memes. Additionally, we note that memes which do well are often psychologically appealing. 
 
-The fundamental principle necessary for memes to existence in a population is the capability of individuals to mimic one-another. In fact, in this respect the songs which live and mutate within populations of some bird species qualify as memes.
+The fundamental principle necessary for memes to existence in a population is the capability of individuals to mimic one-another. In fact, the songs which live and mutate within populations of some bird species qualify as memes.
 
 A parasite may transport its genes via the same vehicle as its host, i.e. through the host’s gametes in sexual reproduction. If this is the case, then the parasite has everything to gain by helping its host to survive and procreate, and over evolutionary time will cease to be a parasite at all.
 
