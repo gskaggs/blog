@@ -210,6 +210,7 @@ Dawkins explores economic and evolutionary theory to explain the interplay of se
 
 <p style="clear: both;"></p>
 *Notes:*
+
 An organism is altruistic if it behaves in such a way as to benefit another at its own expense. Conversely, an organism is selfish if it benefits itself at the expense of another.
 
 The simple explanation that altruism evolved in nature since populations whose members behaved selfishly failed to outcompete the altruistic populations is called ‘group theory.’ Though at first appealing, this idea does not stand to a closer inspection.
