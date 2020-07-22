@@ -188,7 +188,7 @@ Strength of recomendation: **8** / 10 <br>
 <a href="https://www.amazon.com/American-Gods-Neil-Gaiman/dp/0380973650">Amazon page</a>
 </div>
 
-A thrilling novel. Gaiman explores gods old and new, providing deep insight into America and the nature of human belief. 
+A thrilling novel. Gaiman employs gods old and new, providing deep insight into America and the nature of human belief. 
 
 <p style="clear: both;"></p>
 
@@ -235,11 +235,9 @@ The fundamental principle necessary for memes to existence in a population is th
 
 A parasite may transport its genes via the same vehicle as its host, i.e. through the host’s gametes in sexual reproduction. If this is the case, then the parasite has everything to gain by helping its host to survive and procreate, and over evolutionary time will cease to be a parasite at all.
 
-In the ant species *Bothriomyrmex regicides* and *B. decapitans* the queen sneaks into a foreign colony, assassinates via decapitation the rival queen, and then presides over the workers who unsuspectingly tend to her eggs and larvae. Over time her children will outnumber and replace the workers of the previous species. Some will fly to other colonies and repeat the regicidal ritual.
+In the ant species *Bothriomyrmex regicides* and *B. decapitans,* the queen sneaks into a foreign colony, assassinates via decapitation the rival queen, and then presides over the workers who unsuspectingly tend to her eggs and larvae. Over time her children will outnumber and replace the workers of the previous species. Some will fly to other colonies and repeat the regicidal ritual.
 
 Fireflies attract their mates by flashing particular sequences of lights. The genus *Photuris* has evolved to mimic the flashing pattern of genus *Photinus.* In doing so, the females of the former attract and then devour the males of the latter.
-
-
  
 <hr>
 
