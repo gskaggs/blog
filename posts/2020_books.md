@@ -211,7 +211,7 @@ Dawkins explores economic and evolutionary theory to explain the interplay of se
 <p style="clear: both;"></p>
 **Notes:**
 
-In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” In the chaotic origins of life and DNA, this modification rings particularly true. In those conditions, the simple replicators which preceded modern genetic material did well if they possessed three qualities 1. *longevity:* they did not easily breakdown, 2. *fecundity:* they replicated quickly, and 3. *accuracy:* they replicated with minimal error. 
+In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” Applied to the chaotic origins of life and DNA, this modification rings particularly true. In these primeval conditions, the simple replicators which preceded modern genetic material did well if they possessed three qualities. First *longevity,* they did not easily breakdown. Second *fecundity,* they replicated quickly. And third *accuracy,* they replicated with minimal error. 
 
 Dawkins defines a gene as: *any portion of chromosomal material that potentially lasts for enough generations to serve as a unit of natural selection.*
 
@@ -219,13 +219,13 @@ Dawkins defines an Evolutionary Stable Strategy or ESS as: *a strategy which, if
 
 Consider for example, the practice of cuckoo birds to parasite the nests of other species. This qualifies as an ESS since any cuckoo born without genetic encoding to employ this strategy would be at a certain disadvantage and ultimately its genes would not prevail over the majority. 
 
-In biological terms, the fundamental difference between males and females is that male gametes are smaller and more numerous than the gametes of females. The consequences of this asymmetry are many and profound. One is that males may be more likely to abandon their children in favor of pursuing other mates. To combat such behavior, females of several species evolved to either a) play coy, forcing males to invest more time and energy in the process of mate-finding or b) chose to mate with the strongest, most environmentally fit males regardless his potentially improbable honesty. 
+In biological terms, the fundamental difference between males and females is that male gametes are smaller and more numerous than the gametes of females. The consequences of this asymmetry are many and profound. One is that males may be more likely to abandon their children in favor of pursuing other mates. To combat such behavior, females of several species evolved to either a) play coy, forcing males to invest more time and energy in the process of mate-finding or b) choose to mate with the strongest, most environmentally fit males regardless his potentially improbable honesty. 
 
-Naked mole rats organize themselves similarly to social insects like bees and ants. In fact, in any given mole rate colony only one female, called the queen, breeds, and the vast majority of work is done by sterile individuals called workers.
+Naked mole rats organize themselves similarly to social insects like bees and ants. In fact, in any given mole rate colony only one female (the queen) breeds, and the vast majority of work is done by sterile individuals called workers.
 
 Some species of ants wage war on and kidnap the eggs of other ant colonies. Once hatched these eggs are kept as the unwitting slaves of the aggressor ants. Even as they mature into adult worker ants, these slaves remain unaware that they serve a foreign species.
 
-Dawkins defines memes as: *units of cultural transmission.* These are the new replicators. The ideas, songs, fashions, catch-phrases which abound in the primeval soup of human culture.
+Dawkins defines memes as: *units of cultural transmission.* These are the new replicators. The ideas, songs, fashions, catch-phrases which abound in the evolving soup of human culture.
 
 We can apply the same analysis of longevity, fecundity, and replication accuracy to memes. Additionally, we note that memes which do well are often psychologically appealing. 
 
