@@ -208,9 +208,13 @@ Strength of recomendation: **9** / 10 <br>
 
 Dawkins explores economic and evolutionary theory to explain the interplay of selfishness and altruism in nature. Worth reading alone for the incredible descriptions of regicidal insect colonies, game-theoretic fig trees, and the first ever use of the word *meme.* 
 
-<p style="clear: both;"></p>
-**Notes:**
+<div style="clear: both;"></div>
 
+<div class="button1" onclick="toggleHiddenElement('selfish-genes-notes', 'button')" id="button"> Show Notes </div>
+
+<div id="selfish-genes-notes" style="display: none;">
+
+<br>
 In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” Applied to the chaotic origins of life and DNA, this modification rings particularly true. In these primeval conditions, the simple replicators which preceded modern genetic material did well if they possessed three qualities. First *longevity,* they did not easily breakdown. Second *fecundity,* they replicated quickly. And third *accuracy,* they replicated with minimal error. 
 
 Dawkins defines a gene as: *any portion of chromosomal material that potentially lasts for enough generations to serve as a unit of natural selection.*
@@ -236,10 +240,25 @@ A parasite may transport its genes via the same vehicle as its host, i.e. throug
 In the ant species *Bothriomyrmex regicides* and *B. decapitans,* the queen sneaks into a foreign colony, assassinates via decapitation the rival queen, and then presides over the workers who unsuspectingly tend to her eggs and larvae. Over time her children will outnumber and replace the workers of the previous species. Some will fly to other colonies and repeat the regicidal ritual.
 
 Fireflies attract their mates by flashing particular sequences of lights. The genus *Photuris* has evolved to mimic the flashing pattern of genus *Photinus.* In doing so, the females of the former attract and then devour the males of the latter.
- 
+</div>
+
 <hr>
 
 ### Bonus: Spanish Titles
 * **Harry Potter y la Piedra Filosofal,** J. K. Rowling
 * **Percy Jackson: El Ladron del Rayo,** Rick Riordan
 * **Percy Jackson: El Mar de los Monstruos,** Rick Riordan
+
+<script> 
+function toggleHiddenElement(hiddenElemID, buttonElemID) {
+  var hiddenElem = document.getElementById(hiddenElemID);
+  var buttonElem = document.getElementById(buttonElemID);
+  if (hiddenElem.style.display === "none") {
+    hiddenElem.style.display = "block";
+    buttonElem.innerHTML = "Hide Notes";
+  } else {
+    hiddenElem.style.display = "none";
+    buttonElem.innerHTML = "Show Notes";
+  }
+}
+</script>

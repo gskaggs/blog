@@ -8,8 +8,34 @@
         margin-right: 20px;
 }
 
+.button1{
+        display:inline-block;
+        padding-top:0.35em;
+        padding-bottom: 0.35em;
+        color:#268bd2;
+        border:0.111em solid #50aace;
+        margin:0 0.3em 0.3em 0;
+        border-radius:0.12em;
+        box-sizing: border-box;
+        text-decoration:none;
+        font-family:sans-serif;
+        font-weight:300;
+        text-align:center;
+        transition: all 0.2s;
+        width: 45%;
+}
+.button1:hover{
+        color:#ffffff;
+        background-color:#1c274d;
+        border:0.1em solid #000000;
+        cursor: pointer;
+}
+
 @media (min-width: 750px) {
 	.book-cover{
+                width: 20%; 
+        }
+        .button1{
                 width: 20%; 
 	}
 }

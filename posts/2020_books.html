@@ -201,10 +201,14 @@
 <p>Date read: July 2020 <br> Strength of recomendation: <strong>9</strong> / 10 <br> <a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_3?dchild=1&amp;keywords=The+Selfish+Gene&amp;qid=1595179526&amp;sr=8-3">Amazon page</a></p>
 </div>
 <p>Dawkins explores economic and evolutionary theory to explain the interplay of selfishness and altruism in nature. Worth reading alone for the incredible descriptions of regicidal insect colonies, game-theoretic fig trees, and the first ever use of the word <em>meme.</em></p>
-<p style="clear: both;">
-</p>
-<p><strong>Notes:</strong></p>
-<p>In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” Applied to the chaotic origins of life and DNA, this modification rings particularly true. In these primeval conditions, the simple replicators which preceded modern genetic material did well if they possessed three qualities. First <em>longevity,</em> they did not easily breakdown. Second <em>fecundity,</em> they replicated quickly. And third <em>accuracy,</em> they replicated with minimal error.</p>
+<div style="clear: both;">
+
+</div>
+<div id="button" class="button1" onclick="toggleHiddenElement('selfish-genes-notes', 'button')">
+Show Notes
+</div>
+<div id="selfish-genes-notes" style="display: none;">
+<p><br> In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” Applied to the chaotic origins of life and DNA, this modification rings particularly true. In these primeval conditions, the simple replicators which preceded modern genetic material did well if they possessed three qualities. First <em>longevity,</em> they did not easily breakdown. Second <em>fecundity,</em> they replicated quickly. And third <em>accuracy,</em> they replicated with minimal error.</p>
 <p>Dawkins defines a gene as: <em>any portion of chromosomal material that potentially lasts for enough generations to serve as a unit of natural selection.</em></p>
 <p>Dawkins defines an Evolutionary Stable Strategy or ESS as: <em>a strategy which, if most members of a species adopt it, cannot be beaten by another strategy.</em> Such a strategy may very well be encoded genetically and may therefore be subject to the same Darwinian analysis as any other phenotype.</p>
 <p>Consider for example, the practice of cuckoo birds to parasite the nests of other species. This qualifies as an ESS since any cuckoo born without genetic encoding to employ this strategy would be at a certain disadvantage and ultimately its genes would not prevail over the majority.</p>
@@ -217,13 +221,27 @@
 <p>A parasite may transport its genes via the same vehicle as its host, i.e. through the host’s gametes in sexual reproduction. If this is the case, then the parasite has everything to gain by helping its host to survive and procreate, and over evolutionary time will cease to be a parasite at all.</p>
 <p>In the ant species <em>Bothriomyrmex regicides</em> and <em>B. decapitans,</em> the queen sneaks into a foreign colony, assassinates via decapitation the rival queen, and then presides over the workers who unsuspectingly tend to her eggs and larvae. Over time her children will outnumber and replace the workers of the previous species. Some will fly to other colonies and repeat the regicidal ritual.</p>
 <p>Fireflies attract their mates by flashing particular sequences of lights. The genus <em>Photuris</em> has evolved to mimic the flashing pattern of genus <em>Photinus.</em> In doing so, the females of the former attract and then devour the males of the latter.</p>
+</div>
 <hr>
 <h3 id="bonus-spanish-titles">Bonus: Spanish Titles</h3>
 <ul>
 <li><strong>Harry Potter y la Piedra Filosofal,</strong> J. K. Rowling</li>
 <li><strong>Percy Jackson: El Ladron del Rayo,</strong> Rick Riordan</li>
 <li><strong>Percy Jackson: El Mar de los Monstruos,</strong> Rick Riordan</li>
-</ul></div>
+</ul>
+<script> 
+function toggleHiddenElement(hiddenElemID, buttonElemID) {
+  var hiddenElem = document.getElementById(hiddenElemID);
+  var buttonElem = document.getElementById(buttonElemID);
+  if (hiddenElem.style.display === "none") {
+    hiddenElem.style.display = "block";
+    buttonElem.innerHTML = "Hide Notes";
+  } else {
+    hiddenElem.style.display = "none";
+    buttonElem.innerHTML = "Show Notes";
+  }
+}
+</script></div>
 
       <footer>   
       <hr>
