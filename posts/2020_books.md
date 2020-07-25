@@ -131,7 +131,9 @@ Steinbeck's road trip across America with his French poodle Charley makes for a 
 
 <p style="clear: both;"></p>
 
-**Notes:** 
+<div class="button1" onclick="toggleHiddenElement('steinbeck-notes', 'steinbeck-button')" id="steinbeck-button"> Show Notes </div>
+
+<div id="steinbeck-notes" style="display: none;">
 
 > So I drove up the mountain and found a dairy, bought some milk, and asked permission to camp under an apple tree. The dairy man had a Ph.D. in mathematics, and he must have had some training in philosophy. He liked what he was doing and he didn't want to be somewhere else - one of the very few content people I met in my whole journey.
 
@@ -144,6 +146,8 @@ There’s something deeply unsatisfying about the idea that one’s sins are of 
 > Like most Americans I am no lover of cops, and the consistent investigation of city forces for bribery, brutality, and a long picturesque list of malfeasances is not designed to reassure me.
 
 Reading this in a book published in 1962 sobered me to what difficult, fundamental, and longlasting problems police brutality and corruption are, especially in light of the now recent murder of George Floyd. 
+
+</div>
 
 <hr>
 
@@ -163,7 +167,9 @@ Although I appreciated Forster's beautiful prose and the positive spirit of his 
 
 <p style="clear: both;"></p>
 
-**Notes:**
+<div class="button1" onclick="toggleHiddenElement('forster-notes', 'forster-button')" id="forster-button"> Show Notes </div>
+
+<div id="forster-notes" style="display: none;">
 
 > There is only one perfect view—the view of the sky straight over our heads, and that all these views on earth are but bungled copies of it.
 
@@ -174,6 +180,8 @@ Above our heads is the heavenly ideal. It is that which we look up to with our a
 Taken with the previous quote, perhaps Forster is suggesting that men either care for seeing and doing what is right in the world or they reject and forget these ideals altogether.
 
 > “Life” wrote a friend of mine, “is a public performance on the violin, in which you must learn the instrument as you go along.”
+
+</div>
 
 <hr>
 
