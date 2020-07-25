@@ -3,6 +3,7 @@
 % 20 June 2020
 
 <link rel="stylesheet" href="../css/posts.css">
+<script src="../js/posts.js"></script>
 
 # 2020 Reading List
 
@@ -248,17 +249,3 @@ Fireflies attract their mates by flashing particular sequences of lights. The ge
 * **Harry Potter y la Piedra Filosofal,** J. K. Rowling
 * **Percy Jackson: El Ladron del Rayo,** Rick Riordan
 * **Percy Jackson: El Mar de los Monstruos,** Rick Riordan
-
-<script> 
-function toggleHiddenElement(hiddenElemID, buttonElemID) {
-  var hiddenElem = document.getElementById(hiddenElemID);
-  var buttonElem = document.getElementById(buttonElemID);
-  if (hiddenElem.style.display === "none") {
-    hiddenElem.style.display = "block";
-    buttonElem.innerHTML = "Hide Notes";
-  } else {
-    hiddenElem.style.display = "none";
-    buttonElem.innerHTML = "Show Notes";
-  }
-}
-</script>
