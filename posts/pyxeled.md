@@ -1,8 +1,8 @@
-% Introducing Pyxeled 
+% Introducing Pyxeled: Beautiful Pixel Art Powered by Machine Learning 
 % Grant Skaggs 
 % 1 August 2020
 
-# Introducing Pyxeled
+# Introducing Pyxeled: Beautiful Pixel Art Powered by Machine Learning
 
 Transforming normal photographs into aesthetic pixel art. That's Pyxeled. 
 
