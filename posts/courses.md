@@ -6,9 +6,10 @@
 
 ## Junior Fall (Anticipated)
 * Quantum Information Science 
-* Logic in Computer Science and AI 
-* Abstract Algebra 
+* Introduction to Data Mining
+* Formal Logic in Computer Science and AI 
 * Philosophy of the Arts 
+* Issues and Policies in American Government
 
 ## Sophomore Spring
 * Algorithms 
