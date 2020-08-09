@@ -9,7 +9,6 @@
 
 ### Reading Now
 * **The Republic,** Plato
-* **Dracula,** Bram Stoker
 
 ### Read So Far
 
@@ -250,6 +249,24 @@ In the ant species *Bothriomyrmex regicides* and *B. decapitans,* the queen snea
 
 Fireflies attract their mates by flashing particular sequences of lights. The genus *Photuris* has evolved to mimic the flashing pattern of genus *Photinus.* In doing so, the females of the former attract and then devour the males of the latter.
 </div>
+
+<hr>
+
+<img src="../resources/2020_books/dracula.jpeg" alt="Dracula Book Cover" class="book-cover">
+
+### Dracula
+
+*Bram Stoker*
+
+<div class="description">
+Date read: August 2020 <br>
+Strength of recomendation: **8** / 10 <br> 
+<a href="https://www.amazon.com/Dracula-Bram-Stoker/dp/1503261387">Amazon page</a> / <a href="https://www.audible.com/pd/Dracula-Audible-Edition-Audiobook/B0078PA1OA">Audible</a>
+</div>
+
+Exquisite. Audible's ensemble cast brilliantly performs Stoker's horrific classic.
+
+<p style="clear: both;"></p>
 
 <hr>
 
