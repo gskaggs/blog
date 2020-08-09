@@ -8,6 +8,7 @@
 # 2020 Reading List
 
 ### Reading Now
+* **Leonardo da Vinci,** Walter Isaacson
 * **The Republic,** Plato
 
 ### Read So Far
