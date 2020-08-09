@@ -1,6 +1,6 @@
 % 2020 Reading List
 % Grant Skaggs 
-% 20 June 2020
+% 8 August 2020
 
 <link rel="stylesheet" href="../css/posts.css">
 <script src="../js/posts.js"></script>
@@ -11,17 +11,17 @@
 * **Leonardo da Vinci,** Walter Isaacson
 * **The Republic,** Plato
 
-### Read So Far
-
-* [The Art of Learning](#the-art-of-learning)
-* [Can't Hurt Me](#cant-hurt-me)
-* [Zen and the Art of Motercycle Maintenance](#zen-and-the-art-of-motercycle-maintenance)
-* [Dune](#dune)
-* [Neverwhere](#neverwhere)
-* [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
-* [A Room with a View](#a-room-with-a-view)
-* [American Gods](#american-gods)
+### Jump to a Book
+* [Dracula](#dracula)
 * [The Selfish Gene](#the-selfish-gene)
+* [American Gods](#american-gods)
+* [A Room with a View](#a-room-with-a-view)
+* [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
+* [Neverwhere](#neverwhere)
+* [Dune](#dune)
+* [Zen and the Art of Motercycle Maintenance](#zen-and-the-art-of-motercycle-maintenance)
+* [Can't Hurt Me](#cant-hurt-me)
+* [The Art of Learning](#the-art-of-learning)
 
 <hr>
 
