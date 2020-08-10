@@ -18,6 +18,10 @@ Of particular interest to me is research applying machine learning to generate o
 
 In Kies’ literature review I discovered [Evolution of iterated prisoner's dilemma strategies with different history lengths in static and cultural environments]() by Brunauer and Mayer. This paper uses [genetic algorithms]() to produce effective strategies to the iterated prisoner’s dilemma. They represent each genetic agent as a single chromosome where each “gene” encodes how the agent should act for a particular history of its moves played. The length of history used varies from 1 to 6 actions, which in the latter case demands chromosomes containing several thousand genes.
 
+Over the past couple weeks I replicated the experiments of Brunauer and Mayer. My implementation differed from theirs in the exact parameters used for the genetic algorithms and in the classical strategies used as opponents for the fitness function. Additionally, I coded all the tournament and genetic code myself in Python instead of using external libraries. However, interestingly my results corroborated theirs in that longer history lengths didn’t necessarily improve performance. 
+
+Feel free to browse the source code on [its GitHub page.]()
+
 
  
 
