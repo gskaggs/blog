@@ -4,7 +4,7 @@
 
 # Genetic Algorithms for...
 
-<img src="../resources/ipd/ipd.png" alt="The Selfish Gene Book Cover">
+<img src="../resources/ipd/ipd.png" alt="the iterated prisoner's dilemma">
 
 I recently discovered [Evolution of Iterated Prisoner's Dilemma Strategies with Different History Lengths in Static and Cultural Environments](https://www.researchgate.net/publication/220999970_Evolution_of_iterated_prisoner's_dilemma_strategies_with_different_history_lengths_in_static_and_cultural_environments) by Brunauer and Mayer. This paper uses [genetic algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3) to produce effective strategies for the *iterated prisoner’s dilemma* problem.
 
@@ -16,6 +16,13 @@ Over the past couple weeks I replicated the experiments of Brunauer and Mayer. M
 
 Feel free to browse my source code and archived results on [the project's public GitHub page.](https://github.com/gskaggs/iterated-prisoners-dilemma)
 
+<img src="../resources/ipd/moves/C.png" alt="player one's moves" style="padding-right:30px; padding-left:5%; float:left;">
+<img src="../resources/ipd/moves/D.png" alt="player two's moves" style="padding-left:30px; padding-right:5%; float:right;">
+
+<h3 style="text-align:center;">Score</h3>
+<h3 style="text-align:center;">0 : 0</h3>
+
+<p style="clear: both;"></p>
 
 ### Background Info and Bonus Resources
 
