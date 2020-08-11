@@ -16,11 +16,13 @@ Over the past couple weeks I replicated the experiments of Brunauer and Mayer. M
 
 Feel free to browse my source code and archived results on [the project's public GitHub page.](https://github.com/gskaggs/iterated-prisoners-dilemma)
 
-<img src="../resources/ipd/moves/C.png" alt="player one's moves" style="padding-right:30px; padding-left:5%; float:left;">
-<img src="../resources/ipd/moves/D.png" alt="player two's moves" style="padding-left:30px; padding-right:5%; float:right;">
+<img src="../resources/ipd/moves/C.png" alt="player one's moves" style="width: 40%; padding-right:3%; padding-left:5%; float:left; cursor:pointer;">
+<img src="../resources/ipd/moves/D.png" alt="player two's moves" style="width: 40%; padding-left:3%; padding-right:5%; float:right; cursor:pointer;">
 
 <h3 style="text-align:center;">Score</h3>
 <h3 style="text-align:center;">0 : 0</h3>
+<h3 style="text-align:center;">You cooperated.</h3>
+<h3 style="text-align:center;">Loki defected.</h3>
 
 <p style="clear: both;"></p>
 
