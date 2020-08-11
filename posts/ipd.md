@@ -17,7 +17,7 @@ Over the past couple weeks I replicated the experiments of Brunauer and Mayer. M
 Feel free to browse my source code and archived results on [the project's public GitHub page.](https://github.com/gskaggs/iterated-prisoners-dilemma)
 
 
-### Background Info
+### Background Info and Bonus Resources
 
 Before this summer, I had reasonable familiarity with that classic of game theory—[the prisoner’s dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). However, not until I read Richard Dawkins’ [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92) did I begin to appreciate the incredible far-reach of this little thought experiment. 
 
