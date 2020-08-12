@@ -57,15 +57,15 @@ function recordMove(playerMove) {
     hist |= curMove;
 
     if (playerMove) {
-        playerMoveLabel.innerHTML = "You defected. Your score: " + scores[0];
+        playerMoveLabel.innerHTML = "You defected. Your reward: " + playerRewardLookUp[curMove] + " Your score: " + scores[0];
     } else {
-        playerMoveLabel.innerHTML = "You cooperated. Your score: " + scores[0];
+        playerMoveLabel.innerHTML = "You cooperated. Your reward: " + playerRewardLookUp[curMove] + " Your score: " + scores[0];
     }
 
     if (lokiMove) {
-        lokiMoveLabel.innerHTML = "Loki defected. Loki's score: " + scores[1];
+        lokiMoveLabel.innerHTML = "Loki defected. Loki's reward: " + lokiRewardLookUp[curMove] + " Loki's score: " + scores[1];
     } else {
-        lokiMoveLabel.innerHTML = "Loki cooperated. Loki's score: " + scores[1];
+        lokiMoveLabel.innerHTML = "Loki cooperated. Loki's reward: " + lokiRewardLookUp[curMove] + " Loki's score: " + scores[1];
     }
 
     //scoreLabel.innerHTML = scores[0] + " : " + scores[1];
