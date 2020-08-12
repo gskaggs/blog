@@ -43,7 +43,6 @@ var hist = 0;
 var lokiMoveLookUp = [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0]
 var scores = [0, 0]
 
-// Loki, player 
 var lokiRewardLookUp = [1, 2, -1, 0]
 var playerRewardLookUp = [1, -1, 2, 0]
 
@@ -52,6 +51,7 @@ function recordMove(playerMove) {
     curMove = playerMove << 1 | lokiMove;
     scores[0] += playerRewardLookUp[curMove];
     scores[1] += lokiRewardLookUp[curMove];
+
     var bitMask = (1 <<  2 * historyLen) - 1;
     hist = (hist << 2) & bitMask;
     hist |= curMove;
@@ -67,8 +67,6 @@ function recordMove(playerMove) {
     } else {
         lokiMoveLabel.innerHTML = "Loki cooperated. Loki's reward: " + lokiRewardLookUp[curMove] + " Loki's score: " + scores[1];
     }
-
-    //scoreLabel.innerHTML = scores[0] + " : " + scores[1];
 }
 
 </script>
