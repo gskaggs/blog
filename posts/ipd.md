@@ -4,6 +4,7 @@
 
 # Genetic Algorithms for...
 
+<link rel="stylesheet" href="../css/posts.css">
 <img src="../resources/ipd/ipd.png" alt="the iterated prisoner's dilemma">
 
 I recently discovered [Evolution of Iterated Prisoner's Dilemma Strategies with Different History Lengths in Static and Cultural Environments](https://www.researchgate.net/publication/220999970_Evolution_of_iterated_prisoner's_dilemma_strategies_with_different_history_lengths_in_static_and_cultural_environments) by Brunauer and Mayer. This paper uses [genetic algorithms](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3) to produce effective strategies for the *iterated prisoner’s dilemma* problem.
@@ -21,8 +22,10 @@ And don't forget to try your hand against Loki, the project’s cream of the cro
 <img src="../resources/ipd/moves/C.png" alt="player one's moves" onclick="recordMove(0)" style="width: 40%; padding-right:3%; padding-left:5%; float:left; cursor:pointer;">
 <img src="../resources/ipd/moves/D.png" alt="player two's moves" onclick="recordMove(1)" style="width: 40%; padding-left:3%; padding-right:5%; float:right; cursor:pointer;">
 
+<br>
 
-<h3 style="text-align:center;">Ready Player One?</h3>
+<h2 style="text-align:center;">Ready Player One?</h3>
+<p style="clear: both;"></p>
 <h3 id="player-move" style="text-align:center; color:#011175;"></h3>
 <h3 id="loki-move" style="text-align:center;"></h3>
 

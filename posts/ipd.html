@@ -70,7 +70,7 @@
         <ul id="blog-posts"></ul>
       </div> -->
       <div id="blog-post"><h1 id="genetic-algorithms-for...">Genetic Algorithms for...</h1>
-<p><img src="../resources/ipd/ipd.png" alt="the iterated prisoner's dilemma"></p>
+<p><link rel="stylesheet" href="../css/posts.css"> <img src="../resources/ipd/ipd.png" alt="the iterated prisoner's dilemma"></p>
 <p>I recently discovered <a href="https://www.researchgate.net/publication/220999970_Evolution_of_iterated_prisoner's_dilemma_strategies_with_different_history_lengths_in_static_and_cultural_environments">Evolution of Iterated Prisoner's Dilemma Strategies with Different History Lengths in Static and Cultural Environments</a> by Brunauer and Mayer. This paper uses <a href="https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3">genetic algorithms</a> to produce effective strategies for the <em>iterated prisoner’s dilemma</em> problem.</p>
 <p>In economics, the iterated prisoner's dilemma is a game in which players repeatedly engage in episodes of the classic prisoner's dilemma. Strategies do well if they avoid betrayal and either cooperate with or betray cooperative agents. Unlike the original prisoner’s dilemma, an optimal strategy is by no means obvious.</p>
 <p>Brunauer and Mayer represent each player as a single chromosome where every “gene” encodes how the agent should act for a particular history of moves played. The length of history used varies from 1 to 6 actions, which in the latter case demands chromosomes containing several thousand genes.</p>
@@ -78,9 +78,12 @@
 <p>Feel free to browse my source code and archived results on <a href="https://github.com/gskaggs/iterated-prisoners-dilemma">the project's public GitHub page.</a></p>
 <p>And don't forget to try your hand against Loki, the project’s cream of the crop. Click &quot;C&quot; to cooperate and &quot;D&quot; to defect. See how many more points you can earn in an iterated prisoner’s dilemma with the master of mischief.</p>
 <p><img src="../resources/ipd/moves/C.png" alt="player one's moves" onclick="recordMove(0)" style="width: 40%; padding-right:3%; padding-left:5%; float:left; cursor:pointer;"> <img src="../resources/ipd/moves/D.png" alt="player two's moves" onclick="recordMove(1)" style="width: 40%; padding-left:3%; padding-right:5%; float:right; cursor:pointer;"></p>
-<h3 style="text-align:center;">
+<p><br></p>
+<h2 style="text-align:center;">
 Ready Player One?
 </h3>
+<p style="clear: both;">
+</p>
 <h3 id="player-move" style="text-align:center; color:#011175;">
 </h3>
 <h3 id="loki-move" style="text-align:center;">
