@@ -16,13 +16,15 @@ Over the past couple weeks I replicated the experiments of Brunauer and Mayer. M
 
 Feel free to browse my source code and archived results on [the project's public GitHub page.](https://github.com/gskaggs/iterated-prisoners-dilemma)
 
+And don't forget to try your hand against Loki, the project’s cream of the crop. Click "C" to cooperate and "D" to defect. See how many more points you can earn in an iterated prisoner’s dilemma with the master of mischief.
+
 <img src="../resources/ipd/moves/C.png" alt="player one's moves" onclick="recordMove(0)" style="width: 40%; padding-right:3%; padding-left:5%; float:left; cursor:pointer;">
 <img src="../resources/ipd/moves/D.png" alt="player two's moves" onclick="recordMove(1)" style="width: 40%; padding-left:3%; padding-right:5%; float:right; cursor:pointer;">
 
-<h3 style="text-align:center;">Score</h3>
-<h3 id="score" style="text-align:center;">0 : 0</h3>
-<h3 id="player-move" style="text-align:center;">You cooperated.</h3>
-<h3 id="loki-move" style="text-align:center;">Loki defected.</h3>
+
+<h3 style="text-align:center;">Ready Player One?</h3>
+<h3 id="player-move" style="text-align:center; color:#011175;"></h3>
+<h3 id="loki-move" style="text-align:center;"></h3>
 
 <p style="clear: both;"></p>
 
@@ -49,22 +51,19 @@ function recordMove(playerMove) {
     hist = (hist << 2) & bitMask;
     hist |= curMove;
 
-    console.log(parseInt(((1 <<  2 * historyLen) - 1), 10))
-    console.log(parseInt(hist, 10))
-
     if (playerMove) {
-        playerMoveLabel.innerHTML = "You defected.";
+        playerMoveLabel.innerHTML = "You defected. Your score: " + scores[0];
     } else {
-        playerMoveLabel.innerHTML = "You cooperated.";
+        playerMoveLabel.innerHTML = "You cooperated. Your score: " + scores[0];
     }
 
     if (lokiMove) {
-        lokiMoveLabel.innerHTML = "Loki defected.";
+        lokiMoveLabel.innerHTML = "Loki defected. Loki's score: " + scores[1];
     } else {
-        lokiMoveLabel.innerHTML = "Loki cooperated.";
+        lokiMoveLabel.innerHTML = "Loki cooperated. Loki's score: " + scores[1];
     }
 
-    scoreLabel.innerHTML = scores[0] + " : " + scores[1];
+    //scoreLabel.innerHTML = scores[0] + " : " + scores[1];
 }
 
 </script>
