@@ -106,13 +106,15 @@ var lokiRewardLookUp = [1, 2, -1, 0]
 var playerRewardLookUp = [1, -1, 2, 0]
 
 function recordMove(playerMove) {
-    lokiMove = lokiMoveLookUp[history];
+    lokiMove = lokiMoveLookUp[hist];
     curMove = playerMove << 1 | lokiMove;
     scores[0] += playerRewardLookUp[curMove];
     scores[1] += lokiRewardLookUp[curMove];
-    hist = (hist << 2) & ((1 <<  (2 * historyLen) - 1));
+    var bitMask = (1 <<  2 * historyLen) - 1;
+    hist = (hist << 2) & bitMask;
     hist |= curMove;
 
+    console.log(parseInt(((1 <<  2 * historyLen) - 1), 10))
     console.log(parseInt(hist, 10))
 
     if (playerMove) {
