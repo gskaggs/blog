@@ -76,21 +76,61 @@
 <p>Brunauer and Mayer represent each player as a single chromosome where every “gene” encodes how the agent should act for a particular history of moves played. The length of history used varies from 1 to 6 actions, which in the latter case demands chromosomes containing several thousand genes.</p>
 <p>Over the past couple weeks I replicated the experiments of Brunauer and Mayer. My implementation differs from theirs in the parameters used for the genetic algorithms and in the exact adversarial classical strategies used to test the fitness of genetic agents. Additionally, I coded all the tournament and genetic code in Python instead of using external libraries. However, interestingly my results corroborated theirs in that longer history lengths did not necessarily improve performance.</p>
 <p>Feel free to browse my source code and archived results on <a href="https://github.com/gskaggs/iterated-prisoners-dilemma">the project's public GitHub page.</a></p>
-<p><img src="../resources/ipd/moves/C.png" alt="player one's moves" style="width: 40%; padding-right:3%; padding-left:5%; float:left; cursor:pointer;"> <img src="../resources/ipd/moves/D.png" alt="player two's moves" style="width: 40%; padding-left:3%; padding-right:5%; float:right; cursor:pointer;"></p>
+<p><img src="../resources/ipd/moves/C.png" alt="player one's moves" onclick="recordMove(0)" style="width: 40%; padding-right:3%; padding-left:5%; float:left; cursor:pointer;"> <img src="../resources/ipd/moves/D.png" alt="player two's moves" onclick="recordMove(1)" style="width: 40%; padding-left:3%; padding-right:5%; float:right; cursor:pointer;"></p>
 <h3 style="text-align:center;">
 Score
 </h3>
-<h3 style="text-align:center;">
+<h3 id="score" style="text-align:center;">
 0 : 0
 </h3>
-<h3 style="text-align:center;">
+<h3 id="player-move" style="text-align:center;">
 You cooperated.
 </h3>
-<h3 style="text-align:center;">
+<h3 id="loki-move" style="text-align:center;">
 Loki defected.
 </h3>
 <p style="clear: both;">
 </p>
+<script> 
+
+var scoreLabel = document.getElementById("score");
+var playerMoveLabel = document.getElementById("player-move");
+var lokiMoveLabel = document.getElementById("loki-move");
+var historyLen = 3;
+var hist = 0;
+var lokiMoveLookUp = [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0]
+var scores = [0, 0]
+
+// Loki, player 
+var lokiRewardLookUp = [1, 2, -1, 0]
+var playerRewardLookUp = [1, -1, 2, 0]
+
+function recordMove(playerMove) {
+    lokiMove = lokiMoveLookUp[history];
+    curMove = playerMove << 1 | lokiMove;
+    scores[0] += playerRewardLookUp[curMove];
+    scores[1] += lokiRewardLookUp[curMove];
+    hist = (hist << 2) & ((1 <<  (2 * historyLen) - 1));
+    hist |= curMove;
+
+    console.log(parseInt(hist, 10))
+
+    if (playerMove) {
+        playerMoveLabel.innerHTML = "You defected.";
+    } else {
+        playerMoveLabel.innerHTML = "You cooperated.";
+    }
+
+    if (lokiMove) {
+        lokiMoveLabel.innerHTML = "Loki defected.";
+    } else {
+        lokiMoveLabel.innerHTML = "Loki cooperated.";
+    }
+
+    scoreLabel.innerHTML = scores[0] + " : " + scores[1];
+}
+
+</script>
 <h3 id="background-info-and-bonus-resources">Background Info and Bonus Resources</h3>
 <p>Before this summer, I had reasonable familiarity with that classic of game theory—<a href="https://en.wikipedia.org/wiki/Prisoner%27s_dilemma">the prisoner’s dilemma</a>. However, not until I read Richard Dawkins’ <a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92">The Selfish Gene</a> did I begin to appreciate the incredible far-reach of this little thought experiment.</p>
 <p>In the book’s twelfth chapter, playfully entitled “Nice Guys Finish First,” Dawkins explains several natural instances of evolved cooperation as the prisoner’s dilemma in disguise. Many commonplace interactions—the grooming habits of birds, how wasps pollinate fig trees, humanity's symbiotic relationship with our gut bacteria—turn out to be games where cooperation and defection may mean life or death for evolutionary players, and the individuals who do best are often those most deftly evolved to navigate the paradoxical dilemma.</p>

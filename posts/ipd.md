@@ -16,15 +16,56 @@ Over the past couple weeks I replicated the experiments of Brunauer and Mayer. M
 
 Feel free to browse my source code and archived results on [the project's public GitHub page.](https://github.com/gskaggs/iterated-prisoners-dilemma)
 
-<img src="../resources/ipd/moves/C.png" alt="player one's moves" style="width: 40%; padding-right:3%; padding-left:5%; float:left; cursor:pointer;">
-<img src="../resources/ipd/moves/D.png" alt="player two's moves" style="width: 40%; padding-left:3%; padding-right:5%; float:right; cursor:pointer;">
+<img src="../resources/ipd/moves/C.png" alt="player one's moves" onclick="recordMove(0)" style="width: 40%; padding-right:3%; padding-left:5%; float:left; cursor:pointer;">
+<img src="../resources/ipd/moves/D.png" alt="player two's moves" onclick="recordMove(1)" style="width: 40%; padding-left:3%; padding-right:5%; float:right; cursor:pointer;">
 
 <h3 style="text-align:center;">Score</h3>
-<h3 style="text-align:center;">0 : 0</h3>
-<h3 style="text-align:center;">You cooperated.</h3>
-<h3 style="text-align:center;">Loki defected.</h3>
+<h3 id="score" style="text-align:center;">0 : 0</h3>
+<h3 id="player-move" style="text-align:center;">You cooperated.</h3>
+<h3 id="loki-move" style="text-align:center;">Loki defected.</h3>
 
 <p style="clear: both;"></p>
+
+<script> 
+
+var scoreLabel = document.getElementById("score");
+var playerMoveLabel = document.getElementById("player-move");
+var lokiMoveLabel = document.getElementById("loki-move");
+var historyLen = 3;
+var hist = 0;
+var lokiMoveLookUp = [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0]
+var scores = [0, 0]
+
+// Loki, player 
+var lokiRewardLookUp = [1, 2, -1, 0]
+var playerRewardLookUp = [1, -1, 2, 0]
+
+function recordMove(playerMove) {
+    lokiMove = lokiMoveLookUp[history];
+    curMove = playerMove << 1 | lokiMove;
+    scores[0] += playerRewardLookUp[curMove];
+    scores[1] += lokiRewardLookUp[curMove];
+    hist = (hist << 2) & ((1 <<  (2 * historyLen) - 1));
+    hist |= curMove;
+
+    console.log(parseInt(hist, 10))
+
+    if (playerMove) {
+        playerMoveLabel.innerHTML = "You defected.";
+    } else {
+        playerMoveLabel.innerHTML = "You cooperated.";
+    }
+
+    if (lokiMove) {
+        lokiMoveLabel.innerHTML = "Loki defected.";
+    } else {
+        lokiMoveLabel.innerHTML = "Loki cooperated.";
+    }
+
+    scoreLabel.innerHTML = scores[0] + " : " + scores[1];
+}
+
+</script>
 
 ### Background Info and Bonus Resources
 
