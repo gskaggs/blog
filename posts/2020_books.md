@@ -8,7 +8,7 @@
 # 2020 Reading List
 
 ### Reading Now
-* **Leonardo da Vinci,** Walter Isaacson
+* **Never Split the Difference,** Chris Voss
 * **The Republic,** Plato
 
 ### Jump to a Book
