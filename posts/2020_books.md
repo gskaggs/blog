@@ -9,7 +9,7 @@
 
 ### Reading Now
 * **Never Split the Difference,** Chris Voss
-* **The Republic,** Plato
+* **Dropping Ashes on the Buddha,** Seung Sahn
 
 ### Jump to a Book
 * [Dracula](#dracula)
