@@ -1,10 +1,10 @@
-% 2020 Developer Tools- Pareto Style
+% Developer Tools—Pareto Style
 % Grant Skaggs 
 % 8 August 2020
 
 # Developer Tools—Pareto Style
 
-Just like musical compositions, professional tennis players, and styles of font, the developer tools I use fall in a steep Pareto distribution. Here’s my list of essential commands and utilities I use in almost any programming project.
+Just like musical compositions, professional tennis players, and styles of font, the attention I give my developer tools falls in a steep Pareto distribution. Here’s my list of essential commands and utilities I use in almost any programming project.
 
 ### Git
 
