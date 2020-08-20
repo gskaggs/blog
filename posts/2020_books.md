@@ -19,7 +19,7 @@
 * [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
 * [Neverwhere](#neverwhere)
 * [Dune](#dune)
-* [Zen and the Art of Motercycle Maintenance](#zen-and-the-art-of-motercycle-maintenance)
+* [Zen and the Art of Motorcycle Maintenance](#zen-and-the-art-of-motorcycle-maintenance)
 * [Can't Hurt Me](#cant-hurt-me)
 * [The Art of Learning](#the-art-of-learning)
 
@@ -33,7 +33,7 @@
 
 <div class="description">
 Date read: August 2020 <br>
-Strength of recomendation: **8** / 10 <br> 
+Strength of recommendation: **8** / 10 <br> 
 <a href="https://www.amazon.com/Dracula-Bram-Stoker/dp/1503261387">Amazon page</a> / <a href="https://www.audible.com/pd/Dracula-Audible-Edition-Audiobook/B0078PA1OA">Audible</a>
 </div>
 
@@ -51,7 +51,7 @@ Exquisite. Audible's ensemble cast brilliantly performs Stoker's horrific classi
 
 <div class="description">
 Date read: July 2020 <br>
-Strength of recomendation: **9** / 10 <br> 
+Strength of recommendation: **9** / 10 <br> 
 <a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92">Amazon page</a>
 </div>
 
@@ -101,7 +101,7 @@ Fireflies attract their mates by flashing particular sequences of lights. The ge
 
 <div class="description">
 Date read: July 2020 <br>
-Strength of recomendation: **8** / 10 <br> 
+Strength of recommendation: **8** / 10 <br> 
 <a href="https://www.amazon.com/American-Gods-Neil-Gaiman/dp/0380973650">Amazon page</a>
 </div>
 
@@ -119,7 +119,7 @@ A thrilling novel. Gaiman employs gods old and new, providing deep insight into 
 
 <div class="description">
 Date read: June 2020 <br>
-Strength of recomendation: **6** / 10 <br> 
+Strength of recommendation: **6** / 10 <br> 
 <a href="https://www.amazon.com/Room-View-Dover-Thrift-Editions/dp/0486284670">Amazon page</a>
 </div>
 
@@ -153,7 +153,7 @@ Taken with the previous quote, perhaps Forster is suggesting that men either car
 
 <div class="description">
 Date read: June 2020 <br>
-Strength of recomendation: **7** / 10 <br> 
+Strength of recommendation: **7** / 10 <br> 
 <a href="https://www.amazon.com/Travels-Charley-Search-America-Steinbeck/dp/0140053204">Amazon page</a>
 </div>
 
@@ -189,7 +189,7 @@ Reading this in a book published in 1962 sobered me to what difficult, fundament
 
 <div class="description">
 Date read: May 2020 <br>
-Strength of recomendation: **7** / 10 <br> 
+Strength of recommendation: **7** / 10 <br> 
 <a href="https://www.amazon.com/Neverwhere-Novel-Neil-Gaiman-ebook/dp/B000FC130E">Amazon page</a>
 </div>
 
@@ -207,7 +207,7 @@ A fun book, though unlikely to be remembered as Gaiman's greatest work.
 
 <div class="description">
 Date read: April 2020 <br>
-Strength of recomendation: **9** / 10 <br> 
+Strength of recommendation: **9** / 10 <br> 
 <a href="https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717">Amazon page</a>
 </div>
 
@@ -219,13 +219,13 @@ A masterpiece of world-building and story. I found myself listening to the audio
 
 <img src="../resources/2020_books/zmm.jpg" alt="Zen and the Art of Motercycle Maintenance Book Cover" class="book-cover">
 
-### Zen and the Art of Motercycle Maintenance
+### Zen and the Art of Motorcycle Maintenance
 
 *Robert M. Pirsig*
 
 <div class="description">
 Date read: April 2020 <br>
-Strength of recomendation: **10** / 10 <br> 
+Strength of recommendation: **10** / 10 <br> 
 <a href="https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8">Amazon page</a>
 </div>
 
@@ -243,7 +243,7 @@ A philosophical dive into the intersection of rationality, intuition, and values
 
 <div class="description">
 Date read: March 2020 <br>
-Strength of recomendation: **9** / 10 <br> 
+Strength of recommendation: **9** / 10 <br> 
 <a href="https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287">Amazon page</a>
 </div>
 
@@ -261,7 +261,7 @@ The only audiobook I've ever listened to a second time as soon as I finished the
 
 <div class="description">
 Date read: March 2020 <br>
-Strength of recomendation: **9** / 10 <br> 
+Strength of recommendation: **9** / 10 <br> 
 <a href="https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465">Amazon page</a>
 </div>
 
