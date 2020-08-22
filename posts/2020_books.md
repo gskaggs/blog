@@ -8,10 +8,10 @@
 # 2020 Reading List
 
 ### Reading Now
-* **Never Split the Difference,** Chris Voss
 * **Dropping Ashes on the Buddha,** Seung Sahn
 
 ### Jump to a Book
+* [Never Split the Difference](#never-split-the-difference)
 * [Dracula](#dracula)
 * [The Selfish Gene](#the-selfish-gene)
 * [American Gods](#american-gods)
@@ -22,6 +22,24 @@
 * [Zen and the Art of Motorcycle Maintenance](#zen-and-the-art-of-motorcycle-maintenance)
 * [Can't Hurt Me](#cant-hurt-me)
 * [The Art of Learning](#the-art-of-learning)
+
+<hr>
+
+### Never Split the Difference
+
+*Chris Voss*
+
+<img src="../resources/2020_books/voss.jpg" alt="Never Split the Difference Cover" class="book-cover">
+
+<div class="description">
+Date read: July 2020 <br>
+Strength of recommendation: **8** / 10 <br> 
+<a href="https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805">Amazon page</a>
+</div>
+
+Former FBI hostage negotiator Chris Voss shows you the ins and outs of his craft. This short book is immediately practical and highly engaging.
+
+<div style="clear: both;"></div>
 
 <hr>
 
@@ -59,7 +77,7 @@ Dawkins explores economic and evolutionary theory to explain the interplay of se
 
 <div style="clear: both;"></div>
 
-<div class="button1" onclick="toggleHiddenElement('selfish-genes-notes', 'button')" id="button"> Show Notes </div>
+<div class="button1" onclick="toggleHiddenElement('selfish-genes-notes', 'button')"> Show Notes </div>
 
 <div id="selfish-genes-notes" style="display: none;">
 
