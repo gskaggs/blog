@@ -41,6 +41,13 @@ Former FBI hostage negotiator Chris Voss shows you the ins and outs of his craft
 
 <div style="clear: both;"></div>
 
+<div class="button1" onclick="toggleHiddenElement('voss-notes', 'voss-button')" id="voss-button"> Show Notes </div>
+
+<div id="voss-notes" style="display: none;">
+<br>
+
+
+</div>
 <hr>
 
 <img src="../resources/2020_books/dracula.jpeg" alt="Dracula Book Cover" class="book-cover">
@@ -77,7 +84,7 @@ Dawkins explores economic and evolutionary theory to explain the interplay of se
 
 <div style="clear: both;"></div>
 
-<div class="button1" onclick="toggleHiddenElement('selfish-genes-notes', 'button')"> Show Notes </div>
+<div class="button1" onclick="toggleHiddenElement('selfish-genes-notes', 'button')" id="button"> Show Notes </div>
 
 <div id="selfish-genes-notes" style="display: none;">
 
