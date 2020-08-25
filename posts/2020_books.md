@@ -50,17 +50,17 @@ Highly logical negotiation theory fails because humans are irrational and emotio
 
 Voss' tools are designed to calm people down, establish rapport, gain trust, illicit verbalization of needs. We understand that people want to be understood and accepted, so we listen intensely to show empathy. The result is that our opponents become less aggressive and more open-minded.
 
-Assumptions blind, hypotheses guide. Good negotiator know they need to be ready for surprises. Great negotiators use their skills to reveal the surprises they're certain exist. 
+Assumptions blind, hypotheses guide. Good negotiators know they need to be ready for surprises. Great negotiators use their skills to reveal the surprises they're certain exist. 
 
 The less important your counterpart makes himself using "we/us" pronouns the more important he probably is in his team's decision making process.
 
-There are three voices you should use when negotiating:
+There are three voices you should consider when negotiating:
 
 1. The FM DJ voice: a self-assured voice of calm and reason
 1. A positive playful voice: Use most of the time, encourages positivity and cooperation 
 1. Am assertive dominant voice: Use with caution
 
-Mirroring leverages the concept of "birds of a feather flock together." You send subtle signals that you're similar to your counterpart and should be bonding with. Seen often in body language. Voss’ recommendation: Continually repeat the last three words of what your counterpart just said.
+Mirroring leverages the concept of "birds of a feather flock together." You send subtle signals that you're similar to your counterpart and should be bonded with. Seen often in body language. Voss’ recommendation: Continually repeat the last three words of what your counterpart just said.
 
 In one study the tip for waiters who mirrored (In this case, that means repeated the customers’ orders back to them.) was something like 70% more than those who used praise (e.g. "no problem, great").
 
@@ -69,7 +69,7 @@ Labeling: a type of tactical empathy; understanding your opponents emotions, art
 This is a great way to calm down scared or nervous people. By getting their anxiety in the open, you defuse it.
 Labels always begin with "it seems like," "it sounds like," or "it looks like."
 
-Doing an "accusation audit" before a meeting can help identify possible labels. This entails identifying all the reasons your counterpart might be angry with you.
+Doing an *accusation audit* before a meeting can help identify possible labels. This entails identifying all the reasons your counterpart might be angry with you.
 
 Always give your counterpart the opportunity to say no. Don't demand, collaborate.
 
@@ -80,7 +80,7 @@ There are 3 kinds of yes:
 1. Commitment 
 
 The power of *no:*
-*Yes* can be inauthentic. When you say *no,* you know you're in control and not just being taken for a ride. For example, always ask "Is now a bad time?” instead of “Is now a good time?" If you get a *no,* you know the person is going to be focused and not just distractedly playing along.
+*Yes* can be inauthentic. When a person says *no,* they feel in control and not just being taken for a ride. For example, always ask "Is now a bad time?” instead of “Is now a good time?" If you get a *no,* you know the person is going to be focused and not just distractedly playing along.
 
 In general, *that's right* is a great sign. It signals your counterpart believes they’ve come up with a solution or idea themselves.
 
@@ -114,7 +114,7 @@ In these questions you want with the other guy to think you need to use his inte
 
 Who has control in a negotiation the talker or the listener? The listener of course. That's because the talker is revealing information.
 
-We call these question "calibrated questions.” We call their effect "forced empathy."
+We call these questions "calibrated questions." We call their effect "forced empathy."
 
 Two key questions to make your counterpart feel like they are building their own solution: *How will we know we're on track? How do we address things if we're off track?*
 
@@ -122,10 +122,10 @@ The 7/38/55 rule states that 7% of what we communicate is done so through the ve
 
 Four ways to say *no:* 
 
-1. *how am I supposed to do that?* 
-1. *thank you for your generous offer but that just doesn't work for me* 
-1. *I'm sorry but I just can't do that*
-1. *I'm sorry no*
+1. How am I supposed to do that?
+1. Thank you for your generous offer but that just doesn't work for me.
+1. I'm sorry but I just can't do that.
+1. I'm sorry, no.
 
 There are three types of negotiators:
 
