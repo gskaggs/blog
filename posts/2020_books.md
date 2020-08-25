@@ -32,7 +32,7 @@
 <img src="../resources/2020_books/voss.jpg" alt="Never Split the Difference Cover" class="book-cover">
 
 <div class="description">
-Date read: July 2020 <br>
+Date read: August 2020 <br>
 Strength of recommendation: **8** / 10 <br> 
 <a href="https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805">Amazon page</a>
 </div>
