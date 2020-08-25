@@ -52,3 +52,23 @@ I have a love-hate relationship with vim. Very useful despite being very ugly.
 ### Oh My Zsh
 
 IMO no terminal is complete until tricked out with [Oh My Zsh.](https://ohmyz.sh/)
+
+Also don't forget to make your life easier by adding some aliases and functions to your `~/.zshrc` Personally, I frequently use the following:
+
+* `alias py="python3"`
+* `alias gs='git status'`
+* `alias ga='git add'`
+* `alias gl='git log'`
+* `alias gd='git diff'`
+* `alias gc='git commit'`
+
+`ac() {` <br>
+    `git add .` <br>
+    `git commit -m $1` <br> 
+`}`
+
+`acp() {`<br>
+    `git add .`<br>
+    `git commit -m $1`<br>
+    `git push`<br>
+`}`

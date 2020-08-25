@@ -118,7 +118,18 @@
 <p>I have a love-hate relationship with vim. Very useful despite being very ugly.</p>
 <p><a href="../resources/dev-tools/vim.pdf">Here</a> is the recommended introduction for UTCS Pod students.</p>
 <h3 id="oh-my-zsh">Oh My Zsh</h3>
-<p>IMO no terminal is complete until tricked out with <a href="https://ohmyz.sh/">Oh My Zsh.</a></p></div>
+<p>IMO no terminal is complete until tricked out with <a href="https://ohmyz.sh/">Oh My Zsh.</a></p>
+<p>Also don't forget to make your life easier by adding some aliases and functions to your <code>~/.zshrc</code> Personally, I frequently use the following:</p>
+<ul>
+<li><code>alias py=&quot;python3&quot;</code></li>
+<li><code>alias gs='git status'</code></li>
+<li><code>alias ga='git add'</code></li>
+<li><code>alias gl='git log'</code></li>
+<li><code>alias gd='git diff'</code></li>
+<li><code>alias gc='git commit'</code></li>
+</ul>
+<p><code>ac() {</code> <br> <code>git add .</code> <br> <code>git commit -m $1</code> <br> <code>}</code></p>
+<p><code>acp() {</code><br> <code>git add .</code><br> <code>git commit -m $1</code><br> <code>git push</code><br> <code>}</code></p></div>
 
       <footer>   
       <hr>
