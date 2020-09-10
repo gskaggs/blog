@@ -1,5 +1,5 @@
 % 2020 Reading List
-% Grant Skaggs 
+% Grant Skaggs
 % 8 August 2020
 
 <link rel="stylesheet" href="../css/posts.css">
@@ -8,26 +8,47 @@
 # 2020 Reading List
 
 ### Reading Now
-* **Dropping Ashes on the Buddha,** Seung Sahn
+
+- **Lifespan,** David Sinclair
 
 ### Jump to a Book
-* [Never Split the Difference](#never-split-the-difference)
-* [Dracula](#dracula)
-* [The Selfish Gene](#the-selfish-gene)
-* [American Gods](#american-gods)
-* [A Room with a View](#a-room-with-a-view)
-* [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
-* [Neverwhere](#neverwhere)
-* [Dune](#dune)
-* [Zen and the Art of Motorcycle Maintenance](#zen-and-the-art-of-motorcycle-maintenance)
-* [Can't Hurt Me](#cant-hurt-me)
-* [The Art of Learning](#the-art-of-learning)
+
+- [Dropping Ashes on the Buddha](#dropping-ashes-on-the-buddha)
+- [Never Split the Difference](#never-split-the-difference)
+- [Dracula](#dracula)
+- [The Selfish Gene](#the-selfish-gene)
+- [American Gods](#american-gods)
+- [A Room with a View](#a-room-with-a-view)
+- [Travels with Charley in Search of America](#travels-with-charley-in-search-of-america)
+- [Neverwhere](#neverwhere)
+- [Dune](#dune)
+- [Zen and the Art of Motorcycle Maintenance](#zen-and-the-art-of-motorcycle-maintenance)
+- [Can't Hurt Me](#cant-hurt-me)
+- [The Art of Learning](#the-art-of-learning)
+
+<hr>
+
+<img src="../resources/2020_books/ashes-buddha.jpg" alt="Dropping Ashes on the Buddha Book Cover" class="book-cover">
+
+### Dropping Ashes on the Buddha
+
+_Seung Sahn_
+
+<div class="description">
+Date read: September 2020 <br>
+Strength of recommendation: **8** / 10 <br> 
+<a href="https://www.amazon.com/Dropping-Ashes-Buddha-Teachings-Master-ebook/dp/B005FFPMWG">Amazon page</a>
+</div>
+
+Seung Sang is entertaining, eccentric, and immensely thought-provoking. I loved his introduction to Zen Buddhist thought, told through letters, stories, and accounts of this Korean Zen Master's teachings.
+
+<p style="clear: both;"></p>
 
 <hr>
 
 ### Never Split the Difference
 
-*Chris Voss*
+_Chris Voss_
 
 <img src="../resources/2020_books/voss.jpg" alt="Never Split the Difference Cover" class="book-cover">
 
@@ -46,18 +67,18 @@ Former FBI hostage negotiator Chris Voss shows you the ins and outs of his craft
 <div id="voss-notes" style="display: none;">
 <br>
 
-Highly logical negotiation theory fails because humans are irrational and emotional. 
+Highly logical negotiation theory fails because humans are irrational and emotional.
 
 Voss' tools are designed to calm people down, establish rapport, gain trust, illicit verbalization of needs. We understand that people want to be understood and accepted, so we listen intensely to show empathy. The result is that our opponents become less aggressive and more open-minded.
 
-Assumptions blind, hypotheses guide. Good negotiators know they need to be ready for surprises. Great negotiators use their skills to reveal the surprises they're certain exist. 
+Assumptions blind, hypotheses guide. Good negotiators know they need to be ready for surprises. Great negotiators use their skills to reveal the surprises they're certain exist.
 
 The less important your counterpart makes himself using "we/us" pronouns the more important he probably is in his team's decision making process.
 
 There are three voices you should consider when negotiating:
 
 1. The FM DJ voice: a self-assured voice of calm and reason
-1. A positive playful voice: Use most of the time, encourages positivity and cooperation 
+1. A positive playful voice: Use most of the time, encourages positivity and cooperation
 1. Am assertive dominant voice: Use with caution
 
 Mirroring leverages the concept of "birds of a feather flock together." You send subtle signals that you're similar to your counterpart and should be bonded with. Seen often in body language. Voss’ recommendation: Continually repeat the last three words of what your counterpart just said.
@@ -69,22 +90,22 @@ Labeling: a type of tactical empathy; understanding your opponents emotions, art
 This is a great way to calm down scared or nervous people. By getting their anxiety in the open, you defuse it.
 Labels always begin with "it seems like," "it sounds like," or "it looks like."
 
-Doing an *accusation audit* before a meeting can help identify possible labels. This entails identifying all the reasons your counterpart might be angry with you.
+Doing an _accusation audit_ before a meeting can help identify possible labels. This entails identifying all the reasons your counterpart might be angry with you.
 
 Always give your counterpart the opportunity to say no. Don't demand, collaborate.
 
 There are 3 kinds of yes:
 
-1. Counterfeit 
-1. Confirmation 
-1. Commitment 
+1. Counterfeit
+1. Confirmation
+1. Commitment
 
-The power of *no:*
-*Yes* can be inauthentic. When a person says *no,* they feel in control and not just being taken for a ride. For example, always ask "Is now a bad time?” instead of “Is now a good time?" If you get a *no,* you know the person is going to be focused and not just distractedly playing along.
+The power of _no:_
+_Yes_ can be inauthentic. When a person says _no,_ they feel in control and not just being taken for a ride. For example, always ask "Is now a bad time?” instead of “Is now a good time?" If you get a _no,_ you know the person is going to be focused and not just distractedly playing along.
 
-In general, *that's right* is a great sign. It signals your counterpart believes they’ve come up with a solution or idea themselves.
+In general, _that's right_ is a great sign. It signals your counterpart believes they’ve come up with a solution or idea themselves.
 
-Alternatively, *you're right* is bad and often dismissive.
+Alternatively, _you're right_ is bad and often dismissive.
 
 Use your opponent's deadlines against them. Cars salesman are more likely to give good deals at end of the month, businessmen at end of the financial quarter.
 
@@ -106,9 +127,9 @@ In a job interview or salary negotiation, ask "what does it take to be successfu
 
 The trick to negotiating is getting your counterpart to solve your problems without them noticing. Ask questions like "how am I supposed to do that?" Now they understand your problem and will instinctively try to help.
 
-These should be open "reporter questions" which start with *what* or *how.*
+These should be open "reporter questions" which start with _what_ or _how._
 
-Very common example *What is the greatest challenge you face? What about this is important to you? How can I help to make this better for us? How would you like to proceed? How can we solve this problem? What are we trying to accomplish here? How am I supposed to do that?*
+Very common example _What is the greatest challenge you face? What about this is important to you? How can I help to make this better for us? How would you like to proceed? How can we solve this problem? What are we trying to accomplish here? How am I supposed to do that?_
 
 In these questions you want with the other guy to think you need to use his intelligence. This diverts your opponents emotional and mental resources towards your goal and also moves them away from their adversarial state.
 
@@ -116,11 +137,11 @@ Who has control in a negotiation the talker or the listener? The listener of cou
 
 We call these questions "calibrated questions." We call their effect "forced empathy."
 
-Two key questions to make your counterpart feel like they are building their own solution: *How will we know we're on track? How do we address things if we're off track?*
+Two key questions to make your counterpart feel like they are building their own solution: _How will we know we're on track? How do we address things if we're off track?_
 
 The 7/38/55 rule states that 7% of what we communicate is done so through the verbal word, 35% is through the tone and intonation, and 55% is through our body language.
 
-Four ways to say *no:* 
+Four ways to say _no:_
 
 1. How am I supposed to do that?
 1. Thank you for your generous offer but that just doesn't work for me.
@@ -129,7 +150,7 @@ Four ways to say *no:*
 
 There are three types of negotiators:
 
-1. Assertives 
+1. Assertives
 1. Accommodaters
 1. Analysts
 
@@ -151,7 +172,7 @@ Ackerman Bargaining System (Quoted directly from the book):
 
 ### Dracula
 
-*Bram Stoker*
+_Bram Stoker_
 
 <div class="description">
 Date read: August 2020 <br>
@@ -169,7 +190,7 @@ Exquisite. Audible's ensemble cast brilliantly performs Stoker's horrific classi
 
 ### The Selfish Gene
 
-*Richard Dawkins*
+_Richard Dawkins_
 
 <div class="description">
 Date read: July 2020 <br>
@@ -177,7 +198,7 @@ Strength of recommendation: **9** / 10 <br>
 <a href="https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92">Amazon page</a>
 </div>
 
-Dawkins explores economic and evolutionary theory to explain the interplay of selfishness and altruism in nature. Worth reading alone for the incredible descriptions of regicidal insect colonies, game-theoretic fig trees, and the first ever use of the word *meme.* 
+Dawkins explores economic and evolutionary theory to explain the interplay of selfishness and altruism in nature. Worth reading alone for the incredible descriptions of regicidal insect colonies, game-theoretic fig trees, and the first ever use of the word _meme._
 
 <div style="clear: both;"></div>
 
@@ -186,40 +207,41 @@ Dawkins explores economic and evolutionary theory to explain the interplay of se
 <div id="selfish-genes-notes" style="display: none;">
 
 <br>
-In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” Applied to the chaotic origins of life and DNA, this modification rings particularly true. In these primeval conditions, the simple replicators which preceded modern genetic material did well if they possessed three qualities. First *longevity,* they did not easily breakdown. Second *fecundity,* they replicated quickly. And third *accuracy,* they replicated with minimal error. 
+In one sense, Darwin’s “survival of the fittest” may be rephrased as “survival of the stable.” Applied to the chaotic origins of life and DNA, this modification rings particularly true. In these primeval conditions, the simple replicators which preceded modern genetic material did well if they possessed three qualities. First *longevity,* they did not easily breakdown. Second *fecundity,* they replicated quickly. And third *accuracy,* they replicated with minimal error.
 
-Dawkins defines a gene as: *any portion of chromosomal material that potentially lasts for enough generations to serve as a unit of natural selection.*
+Dawkins defines a gene as: _any portion of chromosomal material that potentially lasts for enough generations to serve as a unit of natural selection._
 
-Dawkins defines an Evolutionary Stable Strategy or ESS as: *a strategy which, if most members of a species adopt it, cannot be beaten by another strategy.* Such a strategy may very well be encoded genetically and may therefore be subject to the same Darwinian analysis as any other phenotype. 
+Dawkins defines an Evolutionary Stable Strategy or ESS as: _a strategy which, if most members of a species adopt it, cannot be beaten by another strategy._ Such a strategy may very well be encoded genetically and may therefore be subject to the same Darwinian analysis as any other phenotype.
 
-Consider for example, the practice of cuckoo birds to parasite the nests of other species. This qualifies as an ESS since any cuckoo born without genetic encoding to employ this strategy would be at a certain disadvantage and ultimately its genes would not prevail over the majority. 
+Consider for example, the practice of cuckoo birds to parasite the nests of other species. This qualifies as an ESS since any cuckoo born without genetic encoding to employ this strategy would be at a certain disadvantage and ultimately its genes would not prevail over the majority.
 
-In biological terms, the fundamental difference between males and females is that male gametes are smaller and more numerous than the gametes of females. The consequences of this asymmetry are many and profound. One is that males may be more likely to abandon their children in favor of pursuing other mates. To combat such behavior, females of several species evolved to either a) play coy, forcing males to invest more time and energy in the process of mate-finding or b) choose to mate with the strongest, most environmentally fit males regardless his potentially improbable honesty. 
+In biological terms, the fundamental difference between males and females is that male gametes are smaller and more numerous than the gametes of females. The consequences of this asymmetry are many and profound. One is that males may be more likely to abandon their children in favor of pursuing other mates. To combat such behavior, females of several species evolved to either a) play coy, forcing males to invest more time and energy in the process of mate-finding or b) choose to mate with the strongest, most environmentally fit males regardless his potentially improbable honesty.
 
 Naked mole rats organize themselves similarly to social insects like bees and ants. In fact, in any given mole rate colony only one female (the queen) breeds, and the vast majority of work is done by sterile individuals called workers.
 
 Some species of ants wage war on and kidnap the eggs of other ant colonies. Once hatched these eggs are kept as the unwitting slaves of the aggressor ants. Even as they mature into adult worker ants, these slaves remain unaware that they serve a foreign species.
 
-Dawkins defines memes as: *units of cultural transmission.* These are the new replicators. The ideas, songs, fashions, catch-phrases which abound in the evolving soup of human culture.
+Dawkins defines memes as: _units of cultural transmission._ These are the new replicators. The ideas, songs, fashions, catch-phrases which abound in the evolving soup of human culture.
 
-We can apply the same analysis of longevity, fecundity, and replication accuracy to memes. Additionally, we note that memes which do well are often psychologically appealing. 
+We can apply the same analysis of longevity, fecundity, and replication accuracy to memes. Additionally, we note that memes which do well are often psychologically appealing.
 
 The fundamental principle necessary for memes to existence in a population is the capability of individuals to mimic one-another. In fact, the songs which live and mutate within populations of some bird species qualify as memes.
 
 A parasite may transport its genes via the same vehicle as its host, i.e. through the host’s gametes in sexual reproduction. If this is the case, then the parasite has everything to gain by helping its host to survive and procreate, and over evolutionary time will cease to be a parasite at all.
 
-In the ant species *Bothriomyrmex regicides* and *B. decapitans,* the queen sneaks into a foreign colony, assassinates via decapitation the rival queen, and then presides over the workers who unsuspectingly tend to her eggs and larvae. Over time her children will outnumber and replace the workers of the previous species. Some will fly to other colonies and repeat the regicidal ritual.
+In the ant species _Bothriomyrmex regicides_ and _B. decapitans,_ the queen sneaks into a foreign colony, assassinates via decapitation the rival queen, and then presides over the workers who unsuspectingly tend to her eggs and larvae. Over time her children will outnumber and replace the workers of the previous species. Some will fly to other colonies and repeat the regicidal ritual.
 
-Fireflies attract their mates by flashing particular sequences of lights. The genus *Photuris* has evolved to mimic the flashing pattern of genus *Photinus.* In doing so, the females of the former attract and then devour the males of the latter.
+Fireflies attract their mates by flashing particular sequences of lights. The genus _Photuris_ has evolved to mimic the flashing pattern of genus _Photinus._ In doing so, the females of the former attract and then devour the males of the latter.
+
 </div>
 
 <hr>
 
 <img src="../resources/2020_books/american-gods.jpg" alt="American Gods Book Cover" class="book-cover">
 
-### American Gods 
+### American Gods
 
-*Neil Gaiman*
+_Neil Gaiman_
 
 <div class="description">
 Date read: July 2020 <br>
@@ -227,7 +249,7 @@ Strength of recommendation: **8** / 10 <br>
 <a href="https://www.amazon.com/American-Gods-Neil-Gaiman/dp/0380973650">Amazon page</a>
 </div>
 
-A thrilling novel. Gaiman employs gods old and new, providing deep insight into America and the nature of human belief. 
+A thrilling novel. Gaiman employs gods old and new, providing deep insight into America and the nature of human belief.
 
 <p style="clear: both;"></p>
 
@@ -237,7 +259,7 @@ A thrilling novel. Gaiman employs gods old and new, providing deep insight into 
 
 ### A Room with a View
 
-*E. M. Forster*
+_E. M. Forster_
 
 <div class="description">
 Date read: June 2020 <br>
@@ -271,7 +293,7 @@ Taken with the previous quote, perhaps Forster is suggesting that men either car
 
 ### Travels with Charley in Search of America
 
-*John Steinbeck*
+_John Steinbeck_
 
 <div class="description">
 Date read: June 2020 <br>
@@ -297,7 +319,7 @@ There’s something deeply unsatisfying about the idea that one’s sins are of 
 
 > Like most Americans I am no lover of cops, and the consistent investigation of city forces for bribery, brutality, and a long picturesque list of malfeasances is not designed to reassure me.
 
-Reading this in a book published in 1962 sobered me to what difficult, fundamental, and longlasting problems police brutality and corruption are, especially in light of the now recent murder of George Floyd. 
+Reading this in a book published in 1962 sobered me to what difficult, fundamental, and longlasting problems police brutality and corruption are, especially in light of the now recent murder of George Floyd.
 
 </div>
 
@@ -307,7 +329,7 @@ Reading this in a book published in 1962 sobered me to what difficult, fundament
 
 ### Neverwhere
 
-*Neil Gaiman*
+_Neil Gaiman_
 
 <div class="description">
 Date read: May 2020 <br>
@@ -315,7 +337,7 @@ Strength of recommendation: **7** / 10 <br>
 <a href="https://www.amazon.com/Neverwhere-Novel-Neil-Gaiman-ebook/dp/B000FC130E">Amazon page</a>
 </div>
 
-A fun book, though unlikely to be remembered as Gaiman's greatest work. 
+A fun book, though unlikely to be remembered as Gaiman's greatest work.
 
 <p style="clear: both;"></p>
 
@@ -325,7 +347,7 @@ A fun book, though unlikely to be remembered as Gaiman's greatest work.
 
 ### Dune
 
-*Frank Herbert*
+_Frank Herbert_
 
 <div class="description">
 Date read: April 2020 <br>
@@ -343,7 +365,7 @@ A masterpiece of world-building and story. I found myself listening to the audio
 
 ### Zen and the Art of Motorcycle Maintenance
 
-*Robert M. Pirsig*
+_Robert M. Pirsig_
 
 <div class="description">
 Date read: April 2020 <br>
@@ -361,7 +383,7 @@ A philosophical dive into the intersection of rationality, intuition, and values
 
 ### Can't Hurt Me
 
-*David Goggins*
+_David Goggins_
 
 <div class="description">
 Date read: March 2020 <br>
@@ -375,11 +397,11 @@ The only audiobook I've ever listened to a second time as soon as I finished the
 
 <hr>
 
-<img src="../resources/2020_books/taol.jpg" alt="The Art of Learning Book Cover" class="book-cover"> 
+<img src="../resources/2020_books/taol.jpg" alt="The Art of Learning Book Cover" class="book-cover">
 
 ### The Art of Learning
 
-*Josh Waitzkin*
+_Josh Waitzkin_
 
 <div class="description">
 Date read: March 2020 <br>
@@ -387,13 +409,14 @@ Strength of recommendation: **9** / 10 <br>
 <a href="https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465">Amazon page</a>
 </div>
 
-Waitzkin provides a wealth of wisdom in the space of high performance psychology. My second time reading this book. 
+Waitzkin provides a wealth of wisdom in the space of high performance psychology. My second time reading this book.
 
 <p style="clear: both;"></p>
 
 <hr>
 
 ### Bonus: Spanish Titles
-* **Harry Potter y la Piedra Filosofal,** J. K. Rowling
-* **Percy Jackson: El Ladron del Rayo,** Rick Riordan
-* **Percy Jackson: El Mar de los Monstruos,** Rick Riordan
+
+- **Harry Potter y la Piedra Filosofal,** J. K. Rowling
+- **Percy Jackson: El Ladron del Rayo,** Rick Riordan
+- **Percy Jackson: El Mar de los Monstruos,** Rick Riordan
