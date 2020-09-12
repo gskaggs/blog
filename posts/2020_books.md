@@ -40,9 +40,20 @@ Strength of recommendation: **8** / 10 <br>
 <a href="https://www.amazon.com/Dropping-Ashes-Buddha-Teachings-Master-ebook/dp/B005FFPMWG">Amazon page</a>
 </div>
 
-Seung Sang is entertaining, eccentric, and immensely thought-provoking. I loved his introduction to Zen Buddhist thought, told through letters, stories, and accounts of this Korean Zen Master's teachings.
+Zen Master Seung Sang is entertaining, eccentric, and immensely thought-provoking. I loved his introduction to Zen Buddhist thought, which he tells through letters, stories, and accounts of his teachings.
 
 <p style="clear: both;"></p>
+
+<div class="button1" onclick="toggleHiddenElement('seung-notes', 'seung-button')" id="seung-button"> Show Notes </div>
+
+<div id="seung-notes" style="display: none;">
+<br>
+
+> “If a person came and asked you ‘What is Buddha?’, what would your answer be?” <br>The student said, “Dry shit on a stick.” <br>Soen-sa said, “Oh, very good. Now one more question. Zen Master Dong Sahn said, ‘Buddha is three pounds of flax.’ Are this answer and the other answer the same or different?” <br>The student hit the floor. <br>Soen-sa said, “I don't believe you.” <br>The student said, “Birds fly in the sky, fish swim in the water.” <br>Soen-sa said, “This is scratching your left foot when your right foot itches.” <br>The student bowed and left.
+
+I thought this quote provides a nice taste of the philosophy featured in _Dropping Ashes on the Buddha._ Here, both the student and Zen Master acknowledge the inherent limitations of human language. This is why (1) they call the Buddha several things which are both meaningless and possibly offensive and (2) the student responds with silence to the master's question about sameness. The student's words about the birds and fish go to a deeper level of Zen Buddhist thought, one in which the thinker recognizes the true nature of the world is simply what is. However, Soen-sa is still dissatisfied. When the Zen Master says “This is scratching your left foot when your right foot itches,” he indicates that though the student did well, he did not adequately provide an answer to the question "What is the Buddha?"
+
+</div>
 
 <hr>
 
