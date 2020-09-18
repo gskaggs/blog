@@ -71,17 +71,17 @@ An important book. One which I believe can and will redefine the way we view agi
 
 Although this book contains a wealth of information, here are some of my key takeaways:
 
-Sinclair places great importance on epigenetics within the biological explanation for aging. In his Information Theory of Aging, DNA damage disrupts the epigenome which results in loss of cell identity and then cellular senescence. This in turn causes disease and death in the organism.
+In his Information Theory of Aging, Sinclair places surprising importance on epigenetics and sirtuins. Basically, he reasons that DNA damage disrupts the epigenome which results in loss of cell identity and then cellular senescence. This in turn causes disease and death in the organism.
 
-A widely accepted way to improve lifespan in most animals and humans is to practice calorie reduced diets and/or fasting. Putting this type of pressure on the body triggers your body's "survival circuit," a physiological response characterized by "[boosted] cellular defenses" and the "[minimization] of epigenetic change."
+A widely scientifically accepted way to improve lifespan in most animals and humans is to practice calorie reduced diets and/or fasting. Putting these type of pressures on the body triggers your "survival circuit," a physiological response characterized by "[boosted] cellular defenses" and the "[minimization] of epigenetic change."
 
-Several other means exist to trigger the survival circuit, including restricting amino acid consumption (eating less meat) and exposure to cold.
+Several other means exist to trigger your survival circuit, including restricting amino acid consumption (e.g. by eating less meat) and exposure to cold.
 
 Regular exercise has been shown to increase telomere length in humans.
 
 A number of drugs have been found to increase longevity in animals and humans, most notably metformin and resveratrol. Interestingly, resveratrol is found in red wines and may be considered a product of "stressed" grapes undergoing there own survival circuits.
 
-Looking to the future, Sinclair suggests we get accustomed to the idea that humans may one day expect to live well past 100. In which case we should reconsider any number of economic, political, and social systems which presuppose a normal retirement age. For instance, with a thriving older population, we may have new perspectives on political term limits, social security, vacations and mini-retirements, and education later in life.
+Looking to the future, Sinclair suggests we get accustomed to the idea that humans may one day expect to live well past 100. In which case we should reconsider any number of current economic, political, and social systems which presuppose a normal retirement age. For instance, with a thriving older population, we may have new perspectives on political term limits, social security, vacations and mini-retirements, and education later in life.
 
 </div>
 
