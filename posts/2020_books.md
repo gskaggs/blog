@@ -60,7 +60,7 @@ Strength of recommendation: **9** / 10 <br>
 <a href="https://www.amazon.com/Lifespan-Why-Age-Dont-Have/dp/0008380325">Amazon page</a>
 </div>
 
-An important book. One which I believe can and will redefine the way we view aging and longevity. Shout-out to my great friend Ian for gifting this to me as a Christmas present.
+An important book. One which I believe can and will redefine the way we view aging and longevity. Shout-out to my wonderful friend Ian for gifting this to me as a Christmas present.
 
 <p style="clear: both;"></p>
 
