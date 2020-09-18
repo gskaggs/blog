@@ -9,10 +9,12 @@
 
 ### Reading Now
 
-- **Lifespan,** David Sinclair
+- **The Omnivores Dilemma,** Michael Pollan
 
 ### Jump to a Book
 
+- [Murder on the Orient Express](#murder-on-the-orient-express)
+- [Lifespan](#lifespan)
 - [Dropping Ashes on the Buddha](#dropping-ashes-on-the-buddha)
 - [Never Split the Difference](#never-split-the-difference)
 - [Dracula](#dracula)
@@ -25,6 +27,63 @@
 - [Zen and the Art of Motorcycle Maintenance](#zen-and-the-art-of-motorcycle-maintenance)
 - [Can't Hurt Me](#cant-hurt-me)
 - [The Art of Learning](#the-art-of-learning)
+
+<hr>
+
+<img src="../resources/2020_books/christie.jpg" alt="Dropping Ashes on the Buddha Book Cover" class="book-cover">
+
+### Murder on the Orient Express
+
+_Agatha Christie_
+
+<div class="description">
+Date read: September 2020 <br>
+Strength of recommendation: **8** / 10 <br> 
+<a href=https://www.amazon.com/Murder-Orient-Express-Hercule-Mysteries/dp/0062073508>Amazon</a> / <a href="https://www.audible.com/pd/Murder-on-the-Orient-Express-Audiobook/B00ENJ4J1K">Audible</a>
+</div>
+
+I loved the wit and cunning of detective Hercule Poirot and was overall greatly enchanted by this classic mystery. Additionally, I highly recommend the audiobook version which brilliantly brought to life Christie's cast of colorful characters.
+
+<p style="clear: both;"></p>
+
+<hr>
+
+<img src="../resources/2020_books/lifespan.jpg" alt="Dropping Ashes on the Buddha Book Cover" class="book-cover">
+
+### Lifespan
+
+_David Sinclair_
+
+<div class="description">
+Date read: September 2020 <br>
+Strength of recommendation: **9** / 10 <br> 
+<a href="https://www.amazon.com/Lifespan-Why-Age-Dont-Have/dp/0008380325">Amazon page</a>
+</div>
+
+An important book. One which I believe can and will redefine the way we view aging and longevity. Shout-out to my great friend Ian for gifting this to me as a Christmas present.
+
+<p style="clear: both;"></p>
+
+<div class="button1" onclick="toggleHiddenElement('sinclair-notes', 'sinclair-button')" id="sinclair-button"> Show Notes </div>
+
+<div id="sinclair-notes" style="display: none;">
+<br>
+
+Although this book contains a wealth of information, here are some of my key takeaways:
+
+Sinclair places great importance on epigenetics within the biological explanation for aging. In his Information Theory of Aging, DNA damage disrupts the epigenome which results in loss of cell identity and then cellular senescence. This in turn causes disease and death in the organism.
+
+A widely accepted way to improve lifespan in most animals and humans is to practice calorie reduced diets and/or fasting. Putting this type of pressure on the body triggers your body's "survival circuit," a physiological response characterized by "[boosted] cellular defenses" and the "[minimization] of epigenetic change."
+
+Several other means exist to trigger the survival circuit, including restricting amino acid consumption (eating less meat) and exposure to cold.
+
+Regular exercise has been shown to increase telomere length in humans.
+
+A number of drugs have been found to increase longevity in animals and humans, most notably metformin and resveratrol. Interestingly, resveratrol is found in red wines and may be considered a product of "stressed" grapes undergoing there own survival circuits.
+
+Looking to the future, Sinclair suggests we get accustomed to the idea that humans may one day expect to live well past 100. In which case we should reconsider any number of economic, political, and social systems which presuppose a normal retirement age. For instance, with a thriving older population, we may have new perspectives on political term limits, social security, vacations and mini-retirements, and education later in life.
+
+</div>
 
 <hr>
 
