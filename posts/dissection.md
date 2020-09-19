@@ -22,7 +22,7 @@ My first task was to remove the flesh and connective tissue covering the man’s
 
 I knew then, and I know now, that so long as I live I will never forget the burning putrid smell of a man’s skull being sawed off. Nor will I forget the image of my roommate using chisel and hammer to pry at the dead man’s cranium.
 
-However, I sincerely pray that I always remember the feeling of a man’s brain in my hands. Smaller and heavier than I expected, it was a wet wrinkly mass, a four pound miracle of neurons and glia. It was a man’s life. And it was in my hands.
+However, I sincerely pray that I always remember the delicate feeling of a man’s brain in my hands. Smaller and heavier than I expected, it was a wet wrinkly mass, a four pound miracle of neurons and glia. It was a man’s life. And it was in my hands.
 
 At one time it contained 87 years of memories and experiences. Among its halls walked pain and pleasure, surprise and delight, sorrow and horror.
 
