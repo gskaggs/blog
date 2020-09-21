@@ -9,7 +9,7 @@
 
 ### Reading Now
 
-- **The Omnivores Dilemma,** Michael Pollan
+- **The Omnivore's Dilemma,** Michael Pollan
 
 ### Jump to a Book
 
