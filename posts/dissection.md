@@ -22,10 +22,10 @@ My first task was to remove the flesh and connective tissue covering the man’s
 
 I knew then, and I know now, that so long as I live I will never forget the burning putrid smell of a man’s skull being sawed off. Nor will I forget the image of my roommate using chisel and hammer to pry at the dead man’s cranium.
 
-However, I sincerely pray that I always remember the delicate feeling of a man’s brain in my hands. Smaller and heavier than I expected, it was a wet wrinkly mass, a four pound miracle of neurons and glia. It was a man’s life. And it was in my hands.
+Least likely of all, though, will I forget the delicate feeling of a man’s brain in my hands. Smaller and heavier than I expected, it was a wet wrinkly mass, a four pound miracle of neurons and glia. It was a man’s life. And it was in my palms.
 
-At one time it contained 87 years of memories and experiences. Among its halls walked pain and pleasure, surprise and delight, sorrow and horror.
+At one time it contained 87 years of memories and experiences. Among its halls had walked pain and pleasure, surprise and delight, sorrow and horror.
 
-That night I learned from a renown neuro-immunologist about the cerebellum and the pons, about the frontal, temporal, and occidental lobes. He told us about myelin sheath and the Nodes of Ranvier, and about multiple sclerosis, a disease characterized by the degeneration of these important structures. He told us war stories from his career battling this and other neurological ailments.
+That night I learned from a renown neuro-immunologist about the cerebellum and the pons, about the frontal, temporal, and occidental lobes. He told us about myelin sheathes and the Nodes of Ranvier, and about multiple sclerosis, a disease characterized by the degeneration of these important structures. He told us war stories from his career battling this and other neurological ailments.
 
 Later that night, and even through the week after, I felt a surprising sense of peace. Dissecting the dead man’s body made me more comfortable with my own mortality. I worked with a team who approached the corpse with only curiosity, concentration, and excitement. My fellow volunteers didn’t hesitate to joke about the man’s skinny legs or flat butt. We didn’t blink when bits of brain and skull landed on our scrubs and shoes. Afterwards was only the calm satisfaction of a job well done. Of all the takeaways and memories from this experience I hope most strongly that I retain this comfort with my personal mortality.
