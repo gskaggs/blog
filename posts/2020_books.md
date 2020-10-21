@@ -1,6 +1,6 @@
 % 2020 Reading List
 % Grant Skaggs
-% 8 August 2020
+% 20 October 2020
 
 <link rel="stylesheet" href="../css/posts.css">
 <script src="../js/posts.js"></script>
@@ -9,10 +9,11 @@
 
 ### Reading Now
 
-- **The Omnivore's Dilemma,** Michael Pollan
+- **Empire of the Summer Moon**, S. C. Gwynne
 
 ### Jump to a Book
 
+- [The Name of the Wind](#the-name-of-the-wind)
 - [Murder on the Orient Express](#murder-on-the-orient-express)
 - [Lifespan](#lifespan)
 - [Dropping Ashes on the Buddha](#dropping-ashes-on-the-buddha)
@@ -30,7 +31,46 @@
 
 <hr>
 
-<img src="../resources/2020_books/christie.jpg" alt="Dropping Ashes on the Buddha Book Cover" class="book-cover">
+<img src="../resources/2020_books/rothfuss.jpg" alt="The Name of the Wind Book Cover" class="book-cover">
+
+### The Name of the Wind
+
+_Patrick Rothfuss_
+
+<div class="description">
+Date read: October 2020 <br>
+Strength of recommendation: **8** / 10 <br> 
+<a href=https://www.amazon.com/The-Name-of-Wind-Patrick-Rothfuss-audiobook/dp/B002A2BO2Y>Amazon</a> 
+</div>
+
+_The Name of the Wind_ scratched my fantasy itch perfectly and reminded me of so many childhood hours spent reading _Harry Potter_ and _The Lord of the Rings._ Big thanks to my wonderful aunt and uncle for gifting this book to me.
+
+<p style="clear: both;"></p>
+
+<div class="button1" onclick="toggleHiddenElement('rothfuss-notes', 'rothfuss-button')" id="rothfuss-button"> Show Notes </div>
+
+<div id="rothfuss-notes" style="display: none;">
+<br>
+
+_The Name of the Wind_ appears to have polarized reviews on Amazon: many people simply love it; others simply don't. As a piece of entertainment, I found the book to absolutely deliver. I would listen to the audiobook for hours at a time, to the undeniable detriment of my homework routine. However, this may say more about my love for a good fantasy novel than the quality of the actual book, and any number of perfectly valid gripes can be made about it:
+
+- &ndash; Amazingly, characters in this book suffer head trauma and black out on at least 4 occasions.
+- &ndash; The dragons are vegetarians...
+- &ndash; The principle antagonists of the main character are (1) his poverty, which was compelling initially but soon became repetitive and (2) a mythical people that he never confronts and really never learns anything about the whole book.
+- &ndash; The main character's friends don't play hugely meaningful roles in his development.
+- &ndash; The main character's major love interest is capricious to the point of infuriation.
+
+Some lessons I'm thinking about after reading _The Name of the Wind:_
+
+- &ndash; Virtue is something you practice, not something you signal.
+- &ndash; Curiosity is an incredibly valuable asset and motivator.
+- &ndash; We are spoiled to live in an age with such freely available means of communication and information.
+
+</div>
+
+<hr>
+
+<img src="../resources/2020_books/christie.jpg" alt="Murder on the Orient Express Book Cover" class="book-cover">
 
 ### Murder on the Orient Express
 
