@@ -13,6 +13,7 @@
 
 ### Jump to a Book
 
+- [The Chronicles of Narnia](#the-chronicles-of-narnia)
 - [The Name of the Wind](#the-name-of-the-wind)
 - [Murder on the Orient Express](#murder-on-the-orient-express)
 - [Lifespan](#lifespan)
@@ -28,6 +29,23 @@
 - [Zen and the Art of Motorcycle Maintenance](#zen-and-the-art-of-motorcycle-maintenance)
 - [Can't Hurt Me](#cant-hurt-me)
 - [The Art of Learning](#the-art-of-learning)
+
+<hr>
+
+<img src="../resources/2020_books/narnia.jpg" alt="The Chronicles of Narnia Movie Poster" class="book-cover">
+
+### The Chronicles of Narnia
+
+_C. S. Lewis_
+
+<div class="description">
+Date read: November 2020 <br>
+Strength of recommendation: **9** / 10 <br> 
+<a href=https://www.audible.com/pd/The-Chronicles-of-Narnia-Adult-Box-Set-Audiobook/0061999881>Audible</a>
+
+This month I listened to _The Lion, the Witch, and the Wardrobe_ as well as _Prince Caspian_ on Audible. I enjoyed analyzing the stories' Christian symbolism and marveling at Lewis' fantastic imagination.
+
+<p style="clear: both;"></p>
 
 <hr>
 
@@ -497,7 +515,7 @@ _David Goggins_
 
 <div class="description">
 Date read: March 2020 <br>
-Strength of recommendation: **9** / 10 <br> 
+Strength of recommendation: **10** / 10 <br> 
 <a href="https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287">Amazon page</a>
 </div>
 
