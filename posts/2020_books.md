@@ -9,10 +9,11 @@
 
 ### Reading Now
 
-- **Empire of the Summer Moon**, S. C. Gwynne
+- **The Grapes of Wrath**, John Steinbeck
 
 ### Jump to a Book
 
+- [Greenlights](#greenlights)
 - [The Chronicles of Narnia](#the-chronicles-of-narnia)
 - [The Name of the Wind](#the-name-of-the-wind)
 - [Murder on the Orient Express](#murder-on-the-orient-express)
@@ -32,6 +33,43 @@
 
 <hr>
 
+<img src="../resources/2020_books/mathew.jpg" alt="The Name of the Wind Book Cover" class="book-cover">
+
+### Greenlights
+
+_Matthew McConaughey_
+
+<div class="description">
+Date read: December 2020 <br>
+Strength of recommendation: **8** / 10 <br> 
+<a href=https://www.amazon.com/Greenlights-Matthew-McConaughey/dp/0593139135>Amazon</a> / <a href=https://www.audible.com/pd/Greenlights-Audiobook/0593294181>Audible</a>
+</div>
+
+It his acting and writing, Matthew McConaughey masterfully tells stories. And wow, in this memoir he has some stories to tell - stories which entertain and inspire and astound.
+
+<p style="clear: both;"></p>
+
+<div class="button1" onclick="toggleHiddenElement('mathew-notes', 'mathew-button')" id="mathew-button"> Show Notes </div>
+
+<div id="mathew-notes" style="display: none;">
+<br>
+
+Personal Key Takeaways:
+
+- Take more risks.
+- Live life, have exciting experiences: "The art of livin"
+- Journal during the good times and the bad.
+- Don't be impressed with your life, be involved in it.
+- Don't need it. Want it.
+- Never half-ass it.
+- Know who you are and own it.
+
+If you're on the edge about this book, I recommend checking out <a href=https://tim.blog/2020/10/19/matthew-mcconaughey>Tim Ferriss' interview with McConaughey.</a> It's exceptionally well done and provides a good taste of the book's flavor.
+
+</div>
+
+<hr>
+
 <img src="../resources/2020_books/narnia.jpg" alt="The Chronicles of Narnia Movie Poster" class="book-cover">
 
 ### The Chronicles of Narnia
@@ -40,7 +78,7 @@ _C. S. Lewis_
 
 <div class="description">
 Date read: November 2020 <br>
-Strength of recommendation: **9** / 10 <br> 
+Strength of recommendation: **7** / 10 <br> 
 <a href=https://www.audible.com/pd/The-Chronicles-of-Narnia-Adult-Box-Set-Audiobook/0061999881>Audible</a>
 
 This month I listened to _The Lion, the Witch, and the Wardrobe_ as well as _Prince Caspian_ on Audible. I enjoyed analyzing the stories' Christian symbolism and marveling at Lewis' fantastic imagination.
@@ -57,7 +95,7 @@ _Patrick Rothfuss_
 
 <div class="description">
 Date read: October 2020 <br>
-Strength of recommendation: **8** / 10 <br> 
+Strength of recommendation: **7** / 10 <br> 
 <a href=https://www.amazon.com/The-Name-of-Wind-Patrick-Rothfuss-audiobook/dp/B002A2BO2Y>Amazon</a> 
 </div>
 
